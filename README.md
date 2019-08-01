@@ -1,4 +1,4 @@
-# IOSChallenges
+# Mobile Challenges
 
 Hello ladies and Gentlemans, this repository will show for your a good library of a lot of technical interview challenges. Where you can test your knowledge with real life code from good companies around the world.
  
