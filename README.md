@@ -10,7 +10,7 @@ Olá senhoras e senhores, este repositorio tem como intuito lhes apresentar dive
 |    Idioma    |    Empresa    | Cidade |  Plataforma  |   Linguagem   |    Desafio    |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  PT-BR  | [BTG Pactual](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/BTG-Pactual-Avalia%C3%A7%C3%B5es-E411540.htm) | São Paulo, SP - Brazil |  Nativo  | Kotlin/Swift  | [Aceitar Desafio](https://github.com/btgpactualdigitaldev/mobile-challenge) |
-| EN-US  | 500px | Nativo | Kotlin/Swift | [Aceitar Desafio](https://github.com/500px/mobile-challenge)|
+| EN-US  | 500px | Ontario, Toronto - Canadá | Nativo | Kotlin/Swift | [Aceitar Desafio](https://github.com/500px/mobile-challenge)|
 | EN-US/PT-BR  | Amaro Fashion | São Paulo, SP - Brazil |  Nativo | Swift | [Aceitar Desafio](https://github.com/amarofashion/mobile-ios-challenge)|
 
 ## Dicas para Entrevistas
