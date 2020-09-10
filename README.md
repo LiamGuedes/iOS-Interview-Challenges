@@ -60,17 +60,10 @@ Each challenge is collected from open source repositories, where the main objeti
 
 |    Language    |    Level    | Link | 
 | --------------- | ----------- | ---- |
-| Swift | [High]() | [Artigo]() |
-| Android | [High]() | [Artigo]() |
-| Flutter | [Mid]() | [Artigo]() |
-| React Native | [Mid]() | [Artigo]() |
-
-## To Do List
-
-- [x] At at least fourth challenges
-- [x] Add helpful sites
-- [x] Translate to EN-US
-- [ ] Add originals section
+| Swift | High | [Artigo](https://iosinterviewguide.com/ios-interview-questions-for-senior-developers-in-2020) |
+| Android | High | [Artigo](https://intellipaat.com/blog/interview-question/android-interview-questions/) |
+| Flutter | Mid | [Artigo](https://medium.com/better-programming/flutter-interview-questions-and-answers-2020-adad5dacaf6a) |
+| React Native | Mid | [Artigo](https://www.knowledgehut.com/interview-questions/react-native) |
 
 ## Helpful Sites
 
@@ -79,6 +72,13 @@ Each challenge is collected from open source repositories, where the main objeti
 |[Codility](https://app.codility.com/programmers/login/?next=%2Fprogrammers%2F)| Math/Logic | C++, C#, Go, **Java**, **JavaScript**, **Kotlin**, PHP, Python, Ruby, Scala, **Swift** and SQL (PostgreSQL)|
 |[HackerRank](https://www.hackerrank.com/auth/login?h_l=body_middle_left_button&h_r=login)| Math/Logic | C, C++, **Java**, C#, Python, PHP, Ruby, Go and **Swift** |
 |[URI](https://www.urionlinejudge.com.br/judge/en/login)| Math/Logic | C, C#, C++, **Java**, Python, Ruby, Scala, Go, **Kotlin**, **Javascript**, Lua, Pascal, Haskell and OCAML|
+
+## To Do List
+
+- [x] At at least fourth challenges
+- [x] Add helpful sites
+- [x] Translate to EN-US
+- [ ] Add originals section
 
 ## Contribute 
 
