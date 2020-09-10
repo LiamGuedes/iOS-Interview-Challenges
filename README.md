@@ -4,11 +4,11 @@
 
 ## Introduction
 
-This repository is intended to help, several developers of mobile world, to prepare for IT companies interview in any place of world, across challenges, interview articles and helpful websites.
+This repository is intended to help several mobile developers to prepare for interviews at IT companies around the world, using challenges, interview articles and helpful websites.
  
 ## Challenges
 
-Each challenge is collected from open source repositories, where the main objetive is test applicant knowledge in modern native(Swift and Kotlin) or hybrid (React Native and Flutter) technologies.
+Each challenge can be found on open source repositories, where the main goal is to test the developer's modern native (Swift and Kotlin) or hybrid (React Native and Flutter) skills.
 
 |    Idiom    |    Company    | Country |  Platform  |   Language   |    Challenge    |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -80,10 +80,10 @@ Each challenge is collected from open source repositories, where the main objeti
 |[HackerRank](https://www.hackerrank.com/auth/login?h_l=body_middle_left_button&h_r=login)| Math/Logic | C, C++, **Java**, C#, Python, PHP, Ruby, Go and **Swift** |
 |[URI](https://www.urionlinejudge.com.br/judge/en/login)| Math/Logic | C, C#, C++, **Java**, Python, Ruby, Scala, Go, **Kotlin**, **Javascript**, Lua, Pascal, Haskell and OCAML|
 
-## Contribute 
+## How to contribute 
 
- - **Share** with us challenges, helpful sites and articles related to mobile challenges that you know that are open source, through a pull request with table fields where you want to add. 
- - **Improve** this repositorie with more sections realated to mobile through a pull request with your modifications.
+ - **Share** challenges, helpful websites and articles with us through a pull request with table fields where you want to add.
+ - **Improve** this repository with new sections through a pull request with your modifications.
 
 ## About
-Inspired by [@felipefialho](https://github.com/felipefialho) with your awesome repository [Front-End Challenges](https://github.com/felipefialho/frontend-challenges)
+Inspired by [@felipefialho](https://github.com/felipefialho) awesome repository [Front-End Challenges](https://github.com/felipefialho/frontend-challenges)
