@@ -4,11 +4,11 @@
 
 ## Introdução
 
-
+Este repositorio tem como intuito, ajudar diversos desenvolvedores do mundo mobile, a se prepararem para processos seletivos das mais variadas empresas de TI. Onde através deste você encontrará desafios reias, artigos sobre entrevistas e diversos links uteis para que você testar seus conhecimentos, e aumentar suas chances de passar naquela empresa dos sonhos.
  
 ## Desafios
 
-Cada desafio neste repositorio, foi coletado de repositorios livres, cujo o intuito deles é testar as habilidades de candidatos nas linguagens nativas (Swift e Kotlin) e Hibridas (Dart e Javascript)
+Cada desafio neste repositorio, foi coletado de repositorios livres, cujo o intuito deles é testar as habilidades de candidatos nas linguagens nativas (Swift e Kotlin) e Hibridas (Dart e Javascript), para seus respectivos processos seletivos.
 
 |    Idioma    |    Empresa    | Cidade |  Plataforma  |   Linguagem   |    Desafio    |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -58,12 +58,35 @@ Cada desafio neste repositorio, foi coletado de repositorios livres, cujo o intu
 
 ## Dicas para Entrevistas
 
+|    Linguagem    |    Nivel    | Link | 
+| --------------- | ----------- | ---- |
+| Swift | [Junior]() | [Artigo]() |
+| Swift | [Pleno]() | [Artigo]() |
+| Swift | [Senior]() | [Artigo]() |
+| Android | [Junior]() | [Artigo]() |
+| Android | [Pleno]() | [Artigo]() |
+| Android | [Senior]() | [Artigo]() |
+| Flutter | [Pleno]() | [Artigo]() |
+| React Native | [Pleno]() | [Artigo]() |
 
 ## Atualizações
 
+- [x] Adicionar no minimo 40 desafios
+- [ ] Traduzir repositorio
+- [ ] Adicionar mais Links Uteis
+- [ ] Adicionar seção de desafios originais
 
+## Links Uteis
 
-## Sugestões
+|    Site    |    Tema    | Linguagens | 
+| --------------- | ----------- | ---- |
+|[Codility](https://app.codility.com/programmers/login/?next=%2Fprogrammers%2F)| Matematica/Lógica de Programaçao | C++, C#, Go, **Java**, **JavaScript**, **Kotlin**, PHP, Python, Ruby, Scala, **Swift** e SQL (PostgreSQL)|
+|[HackerRank](https://www.hackerrank.com/auth/login?h_l=body_middle_left_button&h_r=login)| Matematica/Lógica de Programaçao | C, C++, **Java**, C#, Python, PHP, Ruby, Go e **Swift** |
+|[URI](https://www.urionlinejudge.com.br/judge/en/login)| Matematica/Lógica de Programaçao | C, C#, C++, **Java**, Python, Ruby, Scala, Go, **Kotlin**, **Javascript**, Lua, Pascal, Haskell e OCAML|
+
+## Contribua conosco
+
+Meu objetivo com este repositorio é tranquilizar os desenvolvedores em suas respectivas entrevistas, principalmente aqueles que entraram no mercado a pouco tempo. Logo, caso você consiga contribuir com este repositorio para aumentar o numero de challenges, links uteis ou artigos com dicas, sua ajuda sera muito bem vinda :) 
 
 ## Sobre
 Inspirado por [@felipefialho](https://github.com/felipefialho) com seu otimo repositorio [Front-End Challenges](https://github.com/felipefialho/frontend-challenges)
