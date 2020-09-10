@@ -4,11 +4,11 @@
 
 ## Introdução
 
-Este repositorio tem como intuito, lhes apresentar uma série de desafios reais, de modo que você possa treinar seus conhecimentos.
+
  
 ## Desafios
 
-Abaixo, você encontrará uma lista de desafios (Apenas desafios abertos ao publico) de diversas empresas nacionais e estrangeiras:
+Cada desafio neste repositorio, foi coletado de repositorios livres, cujo o intuito deles é testar as habilidades de candidatos nas linguagens nativas (Swift e Kotlin) e Hibridas (Dart e Javascript)
 
 |    Idioma    |    Empresa    | Cidade |  Plataforma  |   Linguagem   |    Desafio    |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -30,7 +30,8 @@ Abaixo, você encontrará uma lista de desafios (Apenas desafios abertos ao publ
 | PT-BR | [Creditas](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Creditas-EI_IE2122901.13,21.htm) | São Paulo, SP - Brasil | Hibrido | React Native | [Desafio](https://github.com/Creditas/challenge/tree/master/mobile-react-native)|
 | PT-BR | [Easyinvest](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Easynvest-EI_IE1537251.13,22.htm) | São Paulo, SP - Brasil | Nativo | Kotlin/Swift | [Desafio IOS](https://github.com/easynvest/teste-ios) [Desafio Android](https://github.com/easynvest/teste-android)|
 | EN-US | [Feegow](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Feegow-Software-Cl%C3%ADnico-EI_IE2866355.13,36.htm) | Rio de Janeiro, RJ - Brasil |Hibrido | React Native | [Desafio](https://github.com/feegow/feegow-challenge-react) |
-| PT-BR | [Fulllab]() | Rio de Janeiro, RJ - Brasil | Hibrido | Kotlin/Swift/RN | [Desafio](https://github.com/fulllabS2totalcommit/desafio-mobile)|
+| PT-BR | [Grupo Fleury](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Grupo-Fleury-EI_IE2393519.13,25.htm) || São Paulo, SP - Brasil | Nativo | Swift | [Desafio](https://github.com/grupofleury/ios-desafio) |
+| PT-BR | [Fulllab](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Fulllab-EI_IE2317852.13,20.htm) | Rio de Janeiro, RJ - Brasil | Hibrido | Kotlin/Swift/RN | [Desafio](https://github.com/fulllabS2totalcommit/desafio-mobile)|
 | PT-BR | [Globoplay](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Rede-Globo-EI_IE321393.13,23.htm) | Rio de Janeiro, RJ - Brasil | Hibrido | Qualquer | [Desafio](https://github.com/globoi/globoplay-desafio-mobile) |
 | PT-BR | [Goomer](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Goomer-EI_IE2756050.13,19.htm) | Sorocaba, SP - Brasil | Nativo | Kotlin | [Desafio](https://github.com/goomerdev/job-dev-android-interview) | 
 | PT-BR | [Hurb](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Hurb-EI_IE936163.13,17.htm) | Rio de Janeiro, RJ - Brasil | Hibrido | Swift/Kotlin/Flutter | [Desafio](https://github.com/hurbcom/challenge-alpha)|
