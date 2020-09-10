@@ -72,8 +72,8 @@ Cada desafio neste repositorio, foi coletado de repositorios livres, cujo o intu
 ## Atualizações
 
 - [x] Adicionar no minimo 40 desafios
-- [ ] Traduzir repositorio
 - [ ] Adicionar mais Links Uteis
+- [ ] Traduzir repositorio
 - [ ] Adicionar seção de desafios originais
 
 ## Links Uteis
@@ -84,9 +84,11 @@ Cada desafio neste repositorio, foi coletado de repositorios livres, cujo o intu
 |[HackerRank](https://www.hackerrank.com/auth/login?h_l=body_middle_left_button&h_r=login)| Matematica/Lógica de Programaçao | C, C++, **Java**, C#, Python, PHP, Ruby, Go e **Swift** |
 |[URI](https://www.urionlinejudge.com.br/judge/en/login)| Matematica/Lógica de Programaçao | C, C#, C++, **Java**, Python, Ruby, Scala, Go, **Kotlin**, **Javascript**, Lua, Pascal, Haskell e OCAML|
 
-## Contribua conosco
+## Contribua 
 
-Meu objetivo com este repositorio é tranquilizar os desenvolvedores em suas respectivas entrevistas, principalmente aqueles que entraram no mercado a pouco tempo. Logo, caso você consiga contribuir com este repositorio para aumentar o numero de challenges, links uteis ou artigos com dicas, sua ajuda sera muito bem vinda :) 
+ - **Compartilhe** conosco os testes, links uteis e artigos relacionados a desafios mobile que você conhece e que sejam de repositorios/sites abertos, através de um pull request com os campos da tabela na qual você gostaria de adicionar. 
+ - **Aprimore** este repositorio com mais seções relacionadas, através de um pull request com suas modificações.
+ - **Ideias** ideias para este repositorio ou duvidas, abra issues aqui, e alguem irá ajuda-lo.
 
 ## Sobre
-Inspirado por [@felipefialho](https://github.com/felipefialho) com seu otimo repositorio [Front-End Challenges](https://github.com/felipefialho/frontend-challenges)
+Inspirado em [@felipefialho](https://github.com/felipefialho) com seu maravilhoso repositorio de desafios [Front-End Challenges](https://github.com/felipefialho/frontend-challenges)
