@@ -60,10 +60,10 @@ Each challenge can be found on open source repositories, where the main goal is 
 
 |    Language    |    Level    | Link | 
 | --------------- | ----------- | ---- |
-| Swift | High | [Artigo](https://iosinterviewguide.com/ios-interview-questions-for-senior-developers-in-2020) |
-| Android | High | [Artigo](https://intellipaat.com/blog/interview-question/android-interview-questions/) |
-| Flutter | Mid | [Artigo](https://medium.com/better-programming/flutter-interview-questions-and-answers-2020-adad5dacaf6a) |
-| React Native | Mid | [Artigo](https://www.knowledgehut.com/interview-questions/react-native) |
+| Swift | High | [Article](https://iosinterviewguide.com/ios-interview-questions-for-senior-developers-in-2020) |
+| Android | High | [Article](https://intellipaat.com/blog/interview-question/android-interview-questions/) |
+| Flutter | Mid | [Article](https://medium.com/better-programming/flutter-interview-questions-and-answers-2020-adad5dacaf6a) |
+| React Native | Mid | [Article](https://www.knowledgehut.com/interview-questions/react-native) |
 
 ## Helpful Sites
 
