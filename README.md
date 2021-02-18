@@ -36,7 +36,7 @@ Each challenge can be found on open source repositories, where the main goal is 
 | PT-BR | [iCasei](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-iCasei-EI_IE2696289.13,19.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge IOS](https://github.com/icasei/teste-ios-developer) [Challenge Android](https://github.com/icasei/teste-android-developer) |
 | EN-US | [Investaz](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-InvestAZ-EI_IE2595979.13,21.htm) | Baku - Azerbaijan | Native | Kotlin/Swift | [Challenge IOS](https://github.com/investaz/ios-recruitment-test) [Challenge Android](https://github.com/investaz/android-recruitment-test) |
 | EN-US | [Joor](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-JOOR-EI_IE715509.13,17.htm) | New York, NY - United State | Native | Swift | [Challenge](https://github.com/joor/iOS-Code-Challenge) |
-| EN-US | [Just-Eat](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Just-Eat-EI_IE490124.13,21.htm) | London - England | Native | Swift | [Challenge Senior IOS](https://github.com/kieranmchall/JustEat.iOS.RecruitmentTest/blob/master/Senior.Developer.TechTest.md) |
+| EN-US | [Just-Eat](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Just-Eat-EI_IE490124.13,21.htm) | London - United Kingdom | Native | Swift | [Challenge Senior IOS](https://github.com/kieranmchall/JustEat.iOS.RecruitmentTest/blob/master/Senior.Developer.TechTest.md) |
 | EN-US | [Moip](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Moip-EI_IE1289443.13,17.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge](https://github.com/Brendoon/mobile-challenge)|
 | EN-US | [Onyo](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Onyo-EI_IE980316.13,17.htm)| Rio de Janeiro, RJ - Brazil | Native | Kotlin/Swift | [Challenge IOS] (https://github.com/Onyo/ios-challenge) [Challenge Android] (https://github.com/Onyo/onyo-challenges/blob/master/android-challenge.md)|
 | PT-BR | [Peixe Urbano](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Peixe-Urbano-EI_IE404577.13,25.htm) | Rio de Janeiro, RJ - Brazil | Native | Swift | [Desafio](https://github.com/PeixeUrbano/desafio-ios) |
@@ -69,7 +69,7 @@ Each challenge can be found on open source repositories, where the main goal is 
 
 ## To Do List
 
-- [x] At at least fourth challenges
+- [x] At least fourth challenges
 - [x] Add helpful sites
 - [x] Translate to EN-US
 - [ ] Add originals section
