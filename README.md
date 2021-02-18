@@ -22,8 +22,8 @@ Each challenge can be found on open source repositories, where the main goal is 
 |  PT-BR  | [BTG Pactual](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/BTG-Pactual-Avalia%C3%A7%C3%B5es-E411540.htm) | São Paulo, SP - Brazil |  Native  | Kotlin/Swift  | [Challenge](https://github.com/btgpactualdigitaldev/mobile-challenge) |
 | PT-BR | [BuildBox](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Buildbox-IT-Solutions-Brazil-EI_IE2827747.13,41.htm) | Campinas, SP - Brazil | Hybrid | React Native | [Challenge](https://github.com/Buildbox-ItSolutions/react-native-developer-challenge) |
 | EN-US | [Cabify](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Cabify-EI_IE975202.13,19.htm) | Madrid - Spain | Native | Kotlin/Swift | [Challenge](https://github.com/cabify/MobileChallenge) |
-| EN-US | [Cartas](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Carta-EI_IE1880027.13,18.htm) | San Francisco, CA - United State | Native | Swift | [Challenge](https://github.com/victorlandeira/eshares-ios-challenge) |
-| EN-US | [Chama](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Chama-The-App-EI_IE2191885.13,26.htm) | Amsterdã - Holanda | Native | Swift | [Challenge](https://github.com/chamatheapp/chama-ios-assignment) |
+| EN-US | [Cartas](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Carta-EI_IE1880027.13,18.htm) | San Francisco, CA - United States | Native | Swift | [Challenge](https://github.com/victorlandeira/eshares-ios-challenge) |
+| EN-US | [Chama](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Chama-The-App-EI_IE2191885.13,26.htm) | Amsterdam - Netherlands | Native | Swift | [Challenge](https://github.com/chamatheapp/chama-ios-assignment) |
 | PT BR | [Ciclic](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Ciclic-EI_IE2788472.13,19.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge IOS](https://github.com/ciclic/test-ios) [Challenge Android](https://github.com/ciclic/test-android)|
 | PT-BR | [Claro](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Claro-EI_IE748887.13,18.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge IOS](https://github.com/mobile-clarobrasil/claro-brasil-challenge-ios) [Challenge Android](https://github.com/mobile-clarobrasil/claro-brasil-challenge-android)|
 | PT-BR | [Concrete](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Concrete-Solutions-EI_IE380126.13,31.htm) | Rio de Janeiro, RJ - Brazil | Native | Kotlin/Swift | [Challenge IOS](https://github.com/concretesolutions/ios-recruiting-brazil)|
@@ -35,19 +35,19 @@ Each challenge can be found on open source repositories, where the main goal is 
 | PT-BR | [Hurb](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Hurb-EI_IE936163.13,17.htm) | Rio de Janeiro, RJ - Brazil | Hybrid | Swift/Kotlin/Flutter | [Challenge](https://github.com/hurbcom/challenge-alpha)|
 | PT-BR | [iCasei](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-iCasei-EI_IE2696289.13,19.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge IOS](https://github.com/icasei/teste-ios-developer) [Challenge Android](https://github.com/icasei/teste-android-developer) |
 | EN-US | [Investaz](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-InvestAZ-EI_IE2595979.13,21.htm) | Baku - Azerbaijan | Native | Kotlin/Swift | [Challenge IOS](https://github.com/investaz/ios-recruitment-test) [Challenge Android](https://github.com/investaz/android-recruitment-test) |
-| EN-US | [Joor](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-JOOR-EI_IE715509.13,17.htm) | New York, NY - United State | Native | Swift | [Challenge](https://github.com/joor/iOS-Code-Challenge) |
+| EN-US | [Joor](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-JOOR-EI_IE715509.13,17.htm) | New York, NY - United States | Native | Swift | [Challenge](https://github.com/joor/iOS-Code-Challenge) |
 | EN-US | [Just-Eat](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Just-Eat-EI_IE490124.13,21.htm) | London - United Kingdom | Native | Swift | [Challenge Senior IOS](https://github.com/kieranmchall/JustEat.iOS.RecruitmentTest/blob/master/Senior.Developer.TechTest.md) |
 | EN-US | [Moip](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Moip-EI_IE1289443.13,17.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge](https://github.com/Brendoon/mobile-challenge)|
 | EN-US | [Onyo](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Onyo-EI_IE980316.13,17.htm)| Rio de Janeiro, RJ - Brazil | Native | Kotlin/Swift | [Challenge IOS](https://github.com/Onyo/ios-challenge) [Challenge Android](https://github.com/Onyo/onyo-challenges/blob/master/android-challenge.md)|
 | PT-BR | [Peixe Urbano](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Peixe-Urbano-EI_IE404577.13,25.htm) | Rio de Janeiro, RJ - Brazil | Native | Swift | [Desafio](https://github.com/PeixeUrbano/desafio-ios) |
 | PT-BR | [Petlove](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Petlove-EI_IE2483742.13,20.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge](https://github.com/petlove/vagas/tree/master/mobile) |
-| EN-US | [Reggora](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Reggora-EI_IE3175631.13,20.htm)| Boston, MA - United State | Hybrid | React Native | [Challenge](https://github.com/Reggora/Native-Coding-Challenge) |
+| EN-US | [Reggora](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Reggora-EI_IE3175631.13,20.htm)| Boston, MA - United States | Hybrid | React Native | [Challenge](https://github.com/Reggora/Native-Coding-Challenge) |
 | EN-US | [SnowDogs](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Snowdog-EI_IE1349332.13,20.htm) | Poznań - Poland | Native | Kotlin/Swift | [Challenge IOS](https://github.com/SnowdogApps/ios-recruitment-test) [Challenge Android](https://github.com/SnowdogApps/android-recruitment-test)|
 | PT-BR | [VivaDecora](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Viva-Decora-EI_IE2779238.13,24.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge IOS](https://github.com/vivadecora/ios-teste) [Challenge Android](https://github.com/vivadecora/vd-android-test) |
 | EN-US | [StreetBees](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Streetbees-EI_IE1284296.13,23.htm)| London - United Kingdom | Native | Swift | [Challenge](https://github.com/Streetbees/ios-developer-challenge)|
-| EN-US | [TOTVS Labs](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-TOTVS-Labs-EI_IE1432816.13,23.htm) | Mountain View, CA - United State | Hybrid | React Native | [Challenge](https://github.com/totvslabs/mobile-challenge) |
+| EN-US | [TOTVS Labs](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-TOTVS-Labs-EI_IE1432816.13,23.htm) | Mountain View, CA - United States | Hybrid | React Native | [Challenge](https://github.com/totvslabs/mobile-challenge) |
 | EN-US | [TradeRev](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-TradeRev-EI_IE1039871.13,21.htm) | Toronto, ON - Canadá | Native | Kotlin/Swift |[Challenge](https://github.com/TradeRev/mobile-coding-challenge) |
-| EN-US | [ViceMedia](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Vice-Media-EI_IE26906.13,23.htm) | Brooklyn, NY - United State | Native | Kotlin/Swift | [Challenge](https://github.com/VICEMedia/mobile-challenge) |
+| EN-US | [ViceMedia](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Vice-Media-EI_IE26906.13,23.htm) | Brooklyn, NY - United States | Native | Kotlin/Swift | [Challenge](https://github.com/VICEMedia/mobile-challenge) |
 
 
 ## Interview Answers
@@ -61,7 +61,7 @@ Each challenge can be found on open source repositories, where the main goal is 
 
 ## Helpful Sites
 
-|    Site    |    Theme    | Available LAnguages | 
+|    Site    |    Theme    | Available Languages | 
 | --------------- | ----------- | ---- |
 |[Codility](https://app.codility.com/programmers/login/?next=%2Fprogrammers%2F)| Math/Logic | C++, C#, Go, **Java**, **JavaScript**, **Kotlin**, PHP, Python, Ruby, Scala, **Swift** and SQL (PostgreSQL)|
 |[HackerRank](https://www.hackerrank.com/auth/login?h_l=body_middle_left_button&h_r=login)| Math/Logic | C, C++, **Java**, C#, Python, PHP, Ruby, Go and **Swift** |
