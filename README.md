@@ -23,11 +23,15 @@ This repository is a collection of many code challenges available in github for 
 
 <h1>iOS Code Challenges</h1>
 
-| Country | Company | Available Language | Glassdor Review | Dev Level | Challenge | Available Positions |
-| ------- | ------- | ------------------ | --------------- | --------- | --------- | ------------------- |
-| [Berlin, Germany](https://nomadlist.com/berlin) | [German Autolabs](https://www.germanautolabs.com) | Swift | ★★★★ [Review](https://www.glassdoor.com/Overview/Working-at-German-Autolabs-EI_IE2075000.11,26.htm) | Mid Level | [Challenge](https://github.com/GermanAutolabs/iOS-coding-challenge)| [LinkedIn](https://www.linkedin.com/company/german-autolabs/jobs/) |
-| [Rio de Janeiro, Brazil]() | [Hurb]() | Swift | ★★★★ [Review]() | Mid Level | [Challenge]() | [LinkedIn]() |
+| Country | Company | Available Language | Glassdor Review | Challenge | Available Positions |
+| ------- | ------- | ------------------ | --------------- | --------- | ------------------- |
+| [Berlin, Germany](https://nomadlist.com/berlin) | [German Autolabs](https://www.germanautolabs.com) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Overview/Working-at-German-Autolabs-EI_IE2075000.11,26.htm) | [Challenge](https://github.com/GermanAutolabs/iOS-coding-challenge)| [LinkedIn](https://www.linkedin.com/company/german-autolabs/jobs/) |
+| [Berlin, Germany](https://nomadlist.com/berlin) | [SoundCloud](https://soundcloud.com) | Swift | ★★★ [↗️]() | [Challenge](https://github.com/VojtaStavik/SoundCloudMemoryGame) | [LinkedIn](https://www.linkedin.com/company/soundcloud/jobs/) |
+| [Rio de Janeiro, Brazil](https://nomadlist.com/rio-de-janeiro) | [Hurb](https://github.com/hurbcom/challenge-alpha) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Overview/Working-at-Hurb-EI_IE936163.11,15.htm) | [Challenge]() | [LinkedIn](https://www.linkedin.com/company/hurb/jobs/) |
+| [New York, United States](https://nomadlist.com/new-york-city) | [JOOR](https://www.joor.com) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Overview/Working-at-JOOR-EI_IE715509.11,15.htm) | [Challenge]() | [LinkedIn](https://www.linkedin.com/company/joor/jobs/) |
+| [Utah, United States](https://nomadlist.com/salt-lake-city) | [Podium](https://www.podium.com) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Overview/Working-at-Podium-EI_IE1010497.11,17.htm) | [Challenge]() | [LinkedIn](https://www.linkedin.com/company/podium/jobs/) |
 
+| [City, Country]() | [Company Site]() | Swift | ★★★★ [↗️]() | [Challenge]() | [LinkedIn]() |
 <br/>
 <h1>Android Code Challenges</h1>
 
