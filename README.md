@@ -3,7 +3,7 @@
  [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/AWv3UAFkgz39u/giphy.gif" height="250"/>
+  <img src="https://media.giphy.com/media/kd9cpJ0buyLDZTgIB0/giphy.gif" width="100%"/>
 </p>
 
 <h1>Introduction</h1>
@@ -33,15 +33,10 @@ This repository is a collection of many code challenges available in github for 
 | [Toronto, Canada](https://nomadlist.com/toronto) | [500px](https://500px.com) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Reviews/500px-Reviews-E600778.htm) | [Challenge](https://github.com/500px/mobile-challenge) | [LinkedIn](https://www.linkedin.com/company/500px/jobs/) |
 | [Prague, Czech Republic](https://nomadlist.com/prague) | [Ackee](https://www.ackee.agency) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Reviews/Ackee-Reviews-E1515295.htm) | [Challenge](https://github.com/AckeeCZ/cookbook-ios-task) | [LinkedIn](https://www.linkedin.com/company/ackee/jobs/) |
 | [Paris, France](https://nomadlist.com/paris) | [AirCall](https://aircall.io) | Swift | ★★★★★ [↗️](https://www.glassdoor.com/Reviews/Aircall-Reviews-E1146674.htm) | [Challenge](https://github.com/aircall/ios-test) | [LinkedIn](https://www.linkedin.com/company/aircall/jobs/) |
-| [London, Unite Kingdom](https://nomadlist.com/london) | [StreetBees](https://www.streetbees.com) | Swift | ★★★ [↗️](https://www.glassdoor.com/Reviews/Streetbees-Reviews-E1284296.htm) | [Challenge](https://github.com/Streetbees/ios-developer-challenge) | [LinkedIn](https://www.linkedin.com/company/streetbees/jobs/) |
+| [London, United Kingdom](https://nomadlist.com/london) | [StreetBees](https://www.streetbees.com) | Swift | ★★★ [↗️](https://www.glassdoor.com/Reviews/Streetbees-Reviews-E1284296.htm) | [Challenge](https://github.com/Streetbees/ios-developer-challenge) | [LinkedIn](https://www.linkedin.com/company/streetbees/jobs/) |
 | [São Paulo, Brazil](https://nomadlist.com/sao-paulo) | [Amaro Fashion](https://amaro.com/br/pt/) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Reviews/AMARO-Reviews-E823472.htm) | [Challenge](https://github.com/amarofashion/mobile-ios-challenge) | [LinkedIn](https://www.linkedin.com/company/amaro/jobs/) |
-| [City, Country]() | [Company]() | Swift | ★★★★ [↗️]() | [Challenge]() | [LinkedIn]() |
-| [City, Country]() | [Company]() | Swift | ★★★★ [↗️]() | [Challenge]() | [LinkedIn]() |
-| [City, Country]() | [Company]() | Swift | ★★★★ [↗️]() | [Challenge]() | [LinkedIn]() |
-| [City, Country]() | [Company]() | Swift | ★★★★ [↗️]() | [Challenge]() | [LinkedIn]() |
-| [City, Country]() | [Company]() | Swift | ★★★★ [↗️]() | [Challenge]() | [LinkedIn]() |
-| [City, Country]() | [Company]() | Swift | ★★★★ [↗️]() | [Challenge]() | [LinkedIn]() |
-| [City, Country]() | [Company]() | Swift | ★★★★ [↗️]() | [Challenge]() | [LinkedIn]() |
+| [São Paulo, Brazil](https://nomadlist.com/sao-paulo) | [B2W Digital](https://www.americanas.com.br) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Reviews/B2w-Digital-Reviews-E6086147.htm) | [Challenge](https://github.com/b2w-marketplace/challenge-ios) | [LinkedIn](https://www.linkedin.com/company/b2w---companhia-global-do-varejo/jobs/) |
+| [San Francisco, United States](https://nomadlist.com/san-francisco) | [Cartas](https://carta.com/blog/eshares-is-now-carta/) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Reviews/Carta-Reviews-E1880027.htm) | [Challenge](https://github.com/victorlandeira/eshares-ios-challenge) | [LinkedIn](https://www.linkedin.com/company/carta--/jobs/) |
 
 
 
@@ -54,15 +49,8 @@ This repository is a collection of many code challenges available in github for 
 
 |    Idiom    |    Company    | Country |  Platform  |   Language   |    Challenge    |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| EN-US | [Amaro Fashion](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-AMARO-EI_IE823472.13,18.htm) | São Paulo, SP - Brazil |  Native | Swift | [Challenge]()|
-| PT-BR | [B2W Digital](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-B2W-Digital-EI_IE231773.13,24.htm) | São Paulo, SP - Brazil | Native | Swift | [Challenge](https://github.com/b2w-marketplace/challenge-ios)|
-| EN-US | [Cartas](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Carta-EI_IE1880027.13,18.htm) | San Francisco, CA - United States | Native | Swift | [Challenge](https://github.com/victorlandeira/eshares-ios-challenge) |
-| EN-US | [Chama](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Chama-The-App-EI_IE2191885.13,26.htm) | Amsterdam - Netherlands | Native | Swift | [Challenge](https://github.com/chamatheapp/chama-ios-assignment) |
-| EN-US | [Joor](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-JOOR-EI_IE715509.13,17.htm) | New York, NY - United States | Native | Swift | [Challenge](https://github.com/joor/iOS-Code-Challenge) |
-| EN-US | [Just-Eat](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Just-Eat-EI_IE490124.13,21.htm) | London - United Kingdom | Native | Swift | [Challenge Senior IOS](https://github.com/kieranmchall/JustEat.iOS.RecruitmentTest/blob/master/Senior.Developer.TechTest.md) |
-| PT-BR | [Peixe Urbano](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Peixe-Urbano-EI_IE404577.13,25.htm) | Rio de Janeiro, RJ - Brazil | Native | Swift | [Desafio](https://github.com/PeixeUrbano/desafio-ios) |
-| PT-BR | [Hurb](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Hurb-EI_IE936163.13,17.htm) | Rio de Janeiro, RJ - Brazil | Hybrid | Swift/Kotlin/Flutter | [Challenge](https://github.com/hurbcom/challenge-alpha)|
 
+| PT-BR | [Hurb](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Hurb-EI_IE936163.13,17.htm) | Rio de Janeiro, RJ - Brazil | Hybrid | Swift/Kotlin/Flutter | [Challenge](https://github.com/hurbcom/challenge-alpha)|
 | EN-US | [Addison Global](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Addison-Global-EI_IE2026228.13,27.htm) | Gibraltar | Hybrid | React Native | [Challenge](https://github.com/addisonglobal/native-technical-test) |
 | PT-BR | [AIS Digital](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-AIS-Digital-EI_IE2108952.13,24.htm) | Brasilia, DF - Brazil | Native | Kotlin/IOS | [Challenge IOS](https://github.com/aisdigital/iOS_Challenge) [Challenge Android](https://github.com/aisdigital/AndroidChallenge)|
 |  PT-BR  | [BTG Pactual](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/BTG-Pactual-Avalia%C3%A7%C3%B5es-E411540.htm) | São Paulo, SP - Brazil |  Native  | Kotlin/Swift  | [Challenge](https://github.com/btgpactualdigitaldev/mobile-challenge) |
