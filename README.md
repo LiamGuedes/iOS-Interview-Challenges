@@ -8,11 +8,11 @@
 
 <h1>Introduction</h1>
 <p>
-  <a href="#projectchallenges">iOS Project Challenges</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#codechallenges">iOS Code Challenges</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#question">iOS Interview Questions</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#warmup">iOS Warmup Kit</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#learning">iOS Learning Kit and Sources</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#projectchallenges">Project Challenges</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#codechallenges">Code Challenges</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#question">Interview Questions</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#warmup">Warmup Kit</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#learning">Learning Kit and Sources</a>&nbsp;&nbsp;|&nbsp;
   <a href="#info">Information Source</a>
 </p>
 
