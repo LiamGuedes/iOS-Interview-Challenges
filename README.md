@@ -22,7 +22,7 @@ This repository is a collection of many code challenges available in github for 
 </p>
 <br/>
 
-<h1>iOS Code Challenges</h1>
+<h1>iOS Project Challenges</h1>
 
 | Country | Company | Available Language | Glassdor Review | Challenge | Available Positions |
 | ------- | ------- | ------------------ | --------------- | --------- | ------------------- |
@@ -43,6 +43,13 @@ This repository is a collection of many code challenges available in github for 
 
 | [City, Country]() | [Company]() | Swift | ★★★★ [↗️]() | [Challenge]() | [LinkedIn]() |
 
+<h1>iOS Code Challenges</h1>
+
+|      Problem      |     Complexity    |        Type        |     Language    |  Challenge  |
+| ----------------- | ----------------- | ------------------ | --------------- | ----------- |
+| [Berlin, Germany](https://nomadlist.com/berlin) | [German Autolabs](https://www.germanautolabs.com) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Overview/Working-at-German-Autolabs-EI_IE2075000.11,26.htm) | [Challenge](https://github.com/GermanAutolabs/iOS-coding-challenge)|
+| [Berlin, Germany](https://nomadlist.com/berlin) | [SoundCloud](https://soundcloud.com) | Swift | ★★★ [↗️]() | [Challenge](https://github.com/VojtaStavik/SoundCloudMemoryGame) |
+| [Rio de Janeiro, Brazil](https://nomadlist.com/rio-de-janeiro) | [Hurb](https://github.com/hurbcom/challenge-alpha) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Overview/Working-at-Hurb-EI_IE936163.11,15.htm) | [Challenge]() |
 
 
 
@@ -75,108 +82,6 @@ This repository is a collection of many code challenges available in github for 
 | EN-US | [TOTVS Labs](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-TOTVS-Labs-EI_IE1432816.13,23.htm) | Mountain View, CA - United States | Hybrid | React Native | [Challenge](https://github.com/totvslabs/mobile-challenge) |
 | EN-US | [TradeRev](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-TradeRev-EI_IE1039871.13,21.htm) | Toronto, ON - Canadá | Native | Kotlin/Swift |[Challenge](https://github.com/TradeRev/mobile-coding-challenge) |
 | EN-US | [ViceMedia](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Vice-Media-EI_IE26906.13,23.htm) | Brooklyn, NY - United States | Native | Kotlin/Swift | [Challenge](https://github.com/VICEMedia/mobile-challenge) |
-
-
-
-
-
-
-
-<br/>
-<h1>Android Code Challenges</h1>
-
-| Country | Company | Available Language | Glassdor Review | Dev Level | Challenge | Available Positions |
-| ------- | ------- | ------------------ | --------------- | --------- | --------- | ------------------- |
-
-<br/>
-<h1>Hybrid Code Challenges</h1>
-
-| Country | Company | Available Language | Glassdor Review | Dev Level | Challenge | Available Positions |
-| ------- | ------- | ------------------ | --------------- | --------- | --------- | ------------------- |
-
-<br/>
-<h1>Code Warmup</h1>
-<h2> Algorithms</h2>
-
-[ANDROID - Kotlin Algorithm Club](https://github.com/bmaslakov/kotlin-algorithm-club):
-
-------
-[iOS - Swift Algorithm Club]():
-
------
-[JS - Javascript Algorithm Club]():
-
------
-[Practice - HackerRank]():
-
------
-
-<br/>
-<h2> Interviews Questions</h2>
-
-[ANDROID - Kotlin Algorithm Club](https://github.com/bmaslakov/kotlin-algorithm-club):
-<br/>
-
-------
-[iOS - Swift Algorithm Club]():
-
------
-[JS - Javascript Algorithm Club]():
-
------
-<br/>
-<h2> Personal Challenges </h2>
-
-[ANDROID - 100 Days of Code](https://github.com/bmaslakov/kotlin-algorithm-club):
-
-------
-[iOS - Swift Algorithm Club]():
-
------
-[JS - Javascript Algorithm Club]():
-
------
-[IDEAS - App Ideas](https://github.com/bmaslakov/kotlin-algorithm-club):
-
-------
-<br/>
-<h1>Information Sources and Courses</h1>
-
-<h2> Courses </h2>
-
-[ANDROID - 100 Days of Code](https://github.com/bmaslakov/kotlin-algorithm-club):
-
-------
-[iOS - Swift Algorithm Club]():
-
------
-[JS - Javascript Algorithm Club]():
-
------
-[IDEAS - App Ideas](https://github.com/bmaslakov/kotlin-algorithm-club):
-
-------
-<br/>
-<h2> Devs to Follow </h2>
-
-[ANDROID - 100 Days of Code](https://github.com/bmaslakov/kotlin-algorithm-club):
-
-------
-[iOS - Swift Algorithm Club]():
-
------
-[JS - Javascript Algorithm Club]():
-
------
-[IDEAS - App Ideas](https://github.com/bmaslakov/kotlin-algorithm-club):
-
-------
-<br/>
-<h2> Free Resources </h2>
-
-[Kotlin Algorithm Club](https://github.com/bmaslakov/kotlin-algorithm-club):
-<br/>
-[Swift Algorithm Club]():
 
 
 <br/>
