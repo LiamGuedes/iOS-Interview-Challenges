@@ -40,7 +40,7 @@ This repository is a collection of many code challenges available in github for 
             <td><a href="https://nomadlist.com/berlin">Berlin, Germany</a></td>
             <td><a href="https://www.germanautolabs.com">German Autolabs</a></td>
             <td>Swift</td>
-            <td>Glassdoor<a href="https://www.glassdoor.com/Overview/Working-at-German-Autolabs-EI_IE2075000.11,26.htm">↗️</a></td>
+            <td><a href="https://www.glassdoor.com/Overview/Working-at-German-Autolabs-EI_IE2075000.11,26.htm">Glassdoor</a></td>
             <td><a href="https://github.com/GermanAutolabs/iOS-coding-challenge">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/german-autolabs/jobs/">LinkedIn</a></td>
         </tr>
@@ -48,7 +48,7 @@ This repository is a collection of many code challenges available in github for 
             <td><a href="https://nomadlist.com/berlin">Berlin, Germany</a></td>
             <td><a href="https://soundcloud.com">SoundCloud</a></td>
             <td>Swift</td>
-            <td>Glassdoor<a href="#">↗️</a></td>
+            <td><a href="#">Glassdoor</a></td>
             <td><a href="https://github.com/VojtaStavik/SoundCloudMemoryGame">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/soundcloud/jobs/">LinkedIn</a></td>
         </tr>
@@ -56,7 +56,7 @@ This repository is a collection of many code challenges available in github for 
             <td><a href="https://nomadlist.com/rio-de-janeiro">Rio de Janeiro, Brazil</a></td>
             <td><a href="https://github.com/hurbcom/challenge-alpha">Hurb</a></td>
             <td>Swift</td>
-            <td>Glassdoor<a href="https://www.glassdoor.com/Overview/Working-at-Hurb-EI_IE936163.11,15.htm">↗️</a></td>
+            <td><a href="https://www.glassdoor.com/Overview/Working-at-Hurb-EI_IE936163.11,15.htm">Glassdoor</a></td>
             <td><a href="#">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/hurb/jobs/">LinkedIn</a></td>
         </tr>
@@ -64,7 +64,7 @@ This repository is a collection of many code challenges available in github for 
             <td><a href="https://nomadlist.com/new-york-city">New York, United States</a></td>
             <td><a href="https://www.joor.com">JOOR</a></td>
             <td>Swift</td>
-            <td>Glassdoor<a href="https://www.glassdoor.com/Overview/Working-at-JOOR-EI_IE715509.11,15.htm">↗️</a></td>
+            <td><a href="https://www.glassdoor.com/Overview/Working-at-JOOR-EI_IE715509.11,15.htm">Glassdoor</a></td>
             <td><a href="#">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/joor/jobs/">LinkedIn</a></td>
         </tr>
@@ -72,7 +72,7 @@ This repository is a collection of many code challenges available in github for 
             <td><a href="https://nomadlist.com/salt-lake-city">Utah, United States</a></td>
             <td><a href="https://www.podium.com">Podium</a></td>
             <td>Swift</td>
-            <td>Glassdoor<a href="https://www.glassdoor.com/Overview/Working-at-Podium-EI_IE1010497.11,17.htm">↗️</a></td>
+            <td><a href="https://www.glassdoor.com/Overview/Working-at-Podium-EI_IE1010497.11,17.htm">Glassdoor</a></td>
             <td><a href="#">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/podium/jobs/">LinkedIn</a></td>
         </tr>
@@ -80,7 +80,7 @@ This repository is a collection of many code challenges available in github for 
             <td><a href="https://nomadlist.com/toronto">Toronto, Canada</a></td>
             <td><a href="https://500px.com">500px</a></td>
             <td>Swift</td>
-            <td>Glassdoor<a href="https://www.glassdoor.com/Reviews/500px-Reviews-E600778.htm">↗️</a></td>
+            <td><a href="https://www.glassdoor.com/Reviews/500px-Reviews-E600778.htm">Glassdoor</a></td>
             <td><a href="https://github.com/500px/mobile-challenge">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/500px/jobs/">LinkedIn</a></td>
         </tr>
@@ -88,7 +88,7 @@ This repository is a collection of many code challenges available in github for 
             <td><a href="https://nomadlist.com/prague">Prague, Czech Republic</a></td>
             <td><a href="https://www.ackee.agency">Ackee</a></td>
             <td>Swift</td>
-            <td>Glassdoor<a href="https://www.glassdoor.com/Reviews/Ackee-Reviews-E1515295.htm">↗️</a></td>
+            <td><a href="https://www.glassdoor.com/Reviews/Ackee-Reviews-E1515295.htm">Glassdoor</a></td>
             <td><a href="https://github.com/AckeeCZ/cookbook-ios-task">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/ackee/jobs/">LinkedIn</a></td>
         </tr>
@@ -96,7 +96,7 @@ This repository is a collection of many code challenges available in github for 
             <td><a href="https://nomadlist.com/paris">Paris, France</a></td>
             <td><a href="https://aircall.io">AirCall</a></td>
             <td>Swift</td>
-            <td>Glassdoor<a href="https://www.glassdoor.com/Reviews/Aircall-Reviews-E1146674.htm">↗️</a></td>
+            <td><a href="https://www.glassdoor.com/Reviews/Aircall-Reviews-E1146674.htm">Glassdoor</a></td>
             <td><a href="https://github.com/aircall/ios-test">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/aircall/jobs/">LinkedIn</a></td>
         </tr>
@@ -104,7 +104,7 @@ This repository is a collection of many code challenges available in github for 
             <td><a href="https://nomadlist.com/london">London, United Kingdom</a></td>
             <td><a href="https://www.streetbees.com">StreetBees</a></td>
             <td>Swift</td>
-            <td>Glassdoor<a href="https://www.glassdoor.com/Reviews/Streetbees-Reviews-E1284296.htm">↗️</a></td>
+            <td><a href="https://www.glassdoor.com/Reviews/Streetbees-Reviews-E1284296.htm">Glassdoor</a></td>
             <td><a href="https://github.com/Streetbees/ios-developer-challenge">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/streetbees/jobs/">LinkedIn</a></td>
         </tr>
@@ -112,7 +112,7 @@ This repository is a collection of many code challenges available in github for 
             <td><a href="https://nomadlist.com/sao-paulo">São Paulo, Brazil</a></td>
             <td><a href="https://amaro.com/br/pt/">Amaro Fashion</a></td>
             <td>Swift</td>
-            <td>Glassdoor<a href="https://www.glassdoor.com/Reviews/AMARO-Reviews-E783026.htm">↗️</a></td>
+            <td><a href="https://www.glassdoor.com/Reviews/AMARO-Reviews-E783026.htm">Glassdoor</a></td>
             <td><a href="https://github.com/amarofashion/iOS-Recruitment">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/amarofashion/jobs/">LinkedIn</a></td>
         </tr>
