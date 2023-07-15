@@ -24,20 +24,100 @@ This repository is a collection of many code challenges available in github for 
 
 <h1>iOS Project Challenges</h1>
 
-| Country | Company | Available Language | Glassdor Review | Challenge | Available Positions |
-| ------- | ------- | ------------------ | --------------- | --------- | ------------------- |
-| [Berlin, Germany](https://nomadlist.com/berlin) | [German Autolabs](https://www.germanautolabs.com) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Overview/Working-at-German-Autolabs-EI_IE2075000.11,26.htm) | [Challenge](https://github.com/GermanAutolabs/iOS-coding-challenge)| [LinkedIn](https://www.linkedin.com/company/german-autolabs/jobs/) |
-| [Berlin, Germany](https://nomadlist.com/berlin) | [SoundCloud](https://soundcloud.com) | Swift | ★★★ [↗️]() | [Challenge](https://github.com/VojtaStavik/SoundCloudMemoryGame) | [LinkedIn](https://www.linkedin.com/company/soundcloud/jobs/) |
-| [Rio de Janeiro, Brazil](https://nomadlist.com/rio-de-janeiro) | [Hurb](https://github.com/hurbcom/challenge-alpha) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Overview/Working-at-Hurb-EI_IE936163.11,15.htm) | [Challenge]() | [LinkedIn](https://www.linkedin.com/company/hurb/jobs/) |
-| [New York, United States](https://nomadlist.com/new-york-city) | [JOOR](https://www.joor.com) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Overview/Working-at-JOOR-EI_IE715509.11,15.htm) | [Challenge]() | [LinkedIn](https://www.linkedin.com/company/joor/jobs/) |
-| [Utah, United States](https://nomadlist.com/salt-lake-city) | [Podium](https://www.podium.com) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Overview/Working-at-Podium-EI_IE1010497.11,17.htm) | [Challenge]() | [LinkedIn](https://www.linkedin.com/company/podium/jobs/) |
-| [Toronto, Canada](https://nomadlist.com/toronto) | [500px](https://500px.com) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Reviews/500px-Reviews-E600778.htm) | [Challenge](https://github.com/500px/mobile-challenge) | [LinkedIn](https://www.linkedin.com/company/500px/jobs/) |
-| [Prague, Czech Republic](https://nomadlist.com/prague) | [Ackee](https://www.ackee.agency) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Reviews/Ackee-Reviews-E1515295.htm) | [Challenge](https://github.com/AckeeCZ/cookbook-ios-task) | [LinkedIn](https://www.linkedin.com/company/ackee/jobs/) |
-| [Paris, France](https://nomadlist.com/paris) | [AirCall](https://aircall.io) | Swift | ★★★★★ [↗️](https://www.glassdoor.com/Reviews/Aircall-Reviews-E1146674.htm) | [Challenge](https://github.com/aircall/ios-test) | [LinkedIn](https://www.linkedin.com/company/aircall/jobs/) |
-| [London, United Kingdom](https://nomadlist.com/london) | [StreetBees](https://www.streetbees.com) | Swift | ★★★ [↗️](https://www.glassdoor.com/Reviews/Streetbees-Reviews-E1284296.htm) | [Challenge](https://github.com/Streetbees/ios-developer-challenge) | [LinkedIn](https://www.linkedin.com/company/streetbees/jobs/) |
-| [São Paulo, Brazil](https://nomadlist.com/sao-paulo) | [Amaro Fashion](https://amaro.com/br/pt/) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Reviews/AMARO-Reviews-E823472.htm) | [Challenge](https://github.com/amarofashion/mobile-ios-challenge) | [LinkedIn](https://www.linkedin.com/company/amaro/jobs/) |
-| [São Paulo, Brazil](https://nomadlist.com/sao-paulo) | [B2W Digital](https://www.americanas.com.br) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Reviews/B2w-Digital-Reviews-E6086147.htm) | [Challenge](https://github.com/b2w-marketplace/challenge-ios) | [LinkedIn](https://www.linkedin.com/company/b2w---companhia-global-do-varejo/jobs/) |
-| [San Francisco, United States](https://nomadlist.com/san-francisco) | [Cartas](https://carta.com/blog/eshares-is-now-carta/) | Swift | ★★★★ [↗️](https://www.glassdoor.com/Reviews/Carta-Reviews-E1880027.htm) | [Challenge](https://github.com/victorlandeira/eshares-ios-challenge) | [LinkedIn](https://www.linkedin.com/company/carta--/jobs/) |
+<table style="width:100%">
+    <thead>
+        <tr>
+            <th>Country</th>
+            <th>Company</th>
+            <th>Available Language</th>
+            <th>Reviews</th>
+            <th>Challenge</th>
+            <th>Available Positions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://nomadlist.com/berlin">Berlin, Germany</a></td>
+            <td><a href="https://www.germanautolabs.com">German Autolabs</a></td>
+            <td>Swift</td>
+            <td>Glassdoor<a href="https://www.glassdoor.com/Overview/Working-at-German-Autolabs-EI_IE2075000.11,26.htm">↗️</a></td>
+            <td><a href="https://github.com/GermanAutolabs/iOS-coding-challenge">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/german-autolabs/jobs/">LinkedIn</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://nomadlist.com/berlin">Berlin, Germany</a></td>
+            <td><a href="https://soundcloud.com">SoundCloud</a></td>
+            <td>Swift</td>
+            <td>Glassdoor<a href="#">↗️</a></td>
+            <td><a href="https://github.com/VojtaStavik/SoundCloudMemoryGame">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/soundcloud/jobs/">LinkedIn</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://nomadlist.com/rio-de-janeiro">Rio de Janeiro, Brazil</a></td>
+            <td><a href="https://github.com/hurbcom/challenge-alpha">Hurb</a></td>
+            <td>Swift</td>
+            <td>Glassdoor<a href="https://www.glassdoor.com/Overview/Working-at-Hurb-EI_IE936163.11,15.htm">↗️</a></td>
+            <td><a href="#">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/hurb/jobs/">LinkedIn</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://nomadlist.com/new-york-city">New York, United States</a></td>
+            <td><a href="https://www.joor.com">JOOR</a></td>
+            <td>Swift</td>
+            <td>Glassdoor<a href="https://www.glassdoor.com/Overview/Working-at-JOOR-EI_IE715509.11,15.htm">↗️</a></td>
+            <td><a href="#">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/joor/jobs/">LinkedIn</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://nomadlist.com/salt-lake-city">Utah, United States</a></td>
+            <td><a href="https://www.podium.com">Podium</a></td>
+            <td>Swift</td>
+            <td>Glassdoor<a href="https://www.glassdoor.com/Overview/Working-at-Podium-EI_IE1010497.11,17.htm">↗️</a></td>
+            <td><a href="#">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/podium/jobs/">LinkedIn</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://nomadlist.com/toronto">Toronto, Canada</a></td>
+            <td><a href="https://500px.com">500px</a></td>
+            <td>Swift</td>
+            <td>Glassdoor<a href="https://www.glassdoor.com/Reviews/500px-Reviews-E600778.htm">↗️</a></td>
+            <td><a href="https://github.com/500px/mobile-challenge">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/500px/jobs/">LinkedIn</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://nomadlist.com/prague">Prague, Czech Republic</a></td>
+            <td><a href="https://www.ackee.agency">Ackee</a></td>
+            <td>Swift</td>
+            <td>Glassdoor<a href="https://www.glassdoor.com/Reviews/Ackee-Reviews-E1515295.htm">↗️</a></td>
+            <td><a href="https://github.com/AckeeCZ/cookbook-ios-task">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/ackee/jobs/">LinkedIn</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://nomadlist.com/paris">Paris, France</a></td>
+            <td><a href="https://aircall.io">AirCall</a></td>
+            <td>Swift</td>
+            <td>Glassdoor<a href="https://www.glassdoor.com/Reviews/Aircall-Reviews-E1146674.htm">↗️</a></td>
+            <td><a href="https://github.com/aircall/ios-test">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/aircall/jobs/">LinkedIn</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://nomadlist.com/london">London, United Kingdom</a></td>
+            <td><a href="https://www.streetbees.com">StreetBees</a></td>
+            <td>Swift</td>
+            <td>Glassdoor<a href="https://www.glassdoor.com/Reviews/Streetbees-Reviews-E1284296.htm">↗️</a></td>
+            <td><a href="https://github.com/Streetbees/ios-developer-challenge">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/streetbees/jobs/">LinkedIn</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://nomadlist.com/sao-paulo">São Paulo, Brazil</a></td>
+            <td><a href="https://amaro.com/br/pt/">Amaro Fashion</a></td>
+            <td>Swift</td>
+            <td>Glassdoor<a href="https://www.glassdoor.com/Reviews/AMARO-Reviews-E783026.htm">↗️</a></td>
+            <td><a href="https://github.com/amarofashion/iOS-Recruitment">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/amarofashion/jobs/">LinkedIn</a></td>
+        </tr>
+    </tbody>
+</table>
 
 
 
