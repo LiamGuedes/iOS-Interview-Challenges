@@ -118,44 +118,36 @@ This repository is a collection of many code challenges available in github for 
         </tr>
         <tr>
             <td><a href="https://nomadlist.com/rio-de-janeiro">Rio de Janeiro, Brazil</a></td>
-            <td><a href="https://amaro.com/br/pt/](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Hurb-EI_IE936163.13,17.htm">Hurb</a></td>
+            <td><a href="https://www.hurb.com/br/">Hurb</a></td>
             <td>Swift</td>
             <td><a href="https://www.glassdoor.com/Reviews/Hurb-Reviews-E936163.htm">Glassdoor</a></td>
             <td><a href="https://github.com/hurbcom/challenge-alpha">Challenge</a></td>
             <td><a href="https://www.linkedin.com/company/hurb/jobs/">LinkedIn</a></td>
+        </tr>        
+        <tr>
+            <td><a href="https://nomadlist.com/sao-paulo">São Paulo, SP - Brazil</a></td>
+            <td><a href="https://www.btgpactual.com/">BTG Pactual</a></td>
+            <td>Swift</td>
+            <td><a href="https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/BTG-Pactual-Avalia%C3%A7%C3%B5es-E411540.htm">Glassdoor</a></td>
+            <td><a href="https://github.com/btgpactualdigitaldev/mobile-challenge">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/btgpactual/jobs/">LinkedIn</a></td>
         </tr>
         <tr>
-            <td><a href=""> , Brazil</a></td>
-            <td><a href="">Hurb</a></td>
+            <td><a href="https://nomadlist.com/madrid">Madrid - Spain</a></td>
+            <td><a href="https://cabify.com/en">Cabify</a></td>
             <td>Swift</td>
-            <td><a href="">Glassdoor</a></td>
-            <td><a href="">Challenge</a></td>
-            <td><a href="">LinkedIn</a></td>
+            <td><a href="https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Cabify-EI_IE975202.13,19.htm">Glassdoor</a></td>
+            <td><a href="https://github.com/cabify/MobileChallenge">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/cabify/">LinkedIn</a></td>
         </tr>
         <tr>
-            <td><a href=""> , Brazil</a></td>
-            <td><a href="">Hurb</a></td>
+            <td><a href="https://nomadlist.com/sao-paulo">São Paulo, SP - Brazil</a></td>
+            <td><a href="https://www.ciclic.com.br/">Ciclic</a></td>
             <td>Swift</td>
-            <td><a href="">Glassdoor</a></td>
-            <td><a href="">Challenge</a></td>
-            <td><a href="">LinkedIn</a></td>
-        </tr>
-        <tr>
-            <td><a href=""> , Brazil</a></td>
-            <td><a href="">Hurb</a></td>
-            <td>Swift</td>
-            <td><a href="">Glassdoor</a></td>
-            <td><a href="">Challenge</a></td>
-            <td><a href="">LinkedIn</a></td>
-        </tr>
-        <tr>
-            <td><a href=""> , Brazil</a></td>
-            <td><a href="">Hurb</a></td>
-            <td>Swift</td>
-            <td><a href="">Glassdoor</a></td>
-            <td><a href="">Challenge</a></td>
-            <td><a href="">LinkedIn</a></td>
-        </tr>
+            <td><a href="https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Ciclic-EI_IE2788472.13,19.htm">Glassdoor</a></td>
+            <td><a href="https://github.com/ciclic/test-ios">Challenge</a></td>
+            <td><a href="https://www.linkedin.com/company/ciclicbr/jobs/">LinkedIn</a></td>
+        </tr>     
         <tr>
             <td><a href=""> , Brazil</a></td>
             <td><a href="">Hurb</a></td>
@@ -273,10 +265,9 @@ This repository is a collection of many code challenges available in github for 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 
-| PT-BR | [AIS Digital](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-AIS-Digital-EI_IE2108952.13,24.htm) | Brasilia, DF - Brazil | Native | Kotlin/IOS | [Challenge IOS](https://github.com/aisdigital/iOS_Challenge) [Challenge Android](https://github.com/aisdigital/AndroidChallenge)|
-|  PT-BR  | [BTG Pactual](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/BTG-Pactual-Avalia%C3%A7%C3%B5es-E411540.htm) | São Paulo, SP - Brazil |  Native  | Kotlin/Swift  | [Challenge](https://github.com/btgpactualdigitaldev/mobile-challenge) |
-| EN-US | [Cabify](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Cabify-EI_IE975202.13,19.htm) | Madrid - Spain | Native | Kotlin/Swift | [Challenge](https://github.com/cabify/MobileChallenge) |
-| PT BR | [Ciclic](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Ciclic-EI_IE2788472.13,19.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge IOS](https://github.com/ciclic/test-ios) [Challenge Android](https://github.com/ciclic/test-android)|
+
+
+
 | PT-BR | [Claro](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Claro-EI_IE748887.13,18.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge IOS](https://github.com/mobile-clarobrasil/claro-brasil-challenge-ios) [Challenge Android](https://github.com/mobile-clarobrasil/claro-brasil-challenge-android)|
 | PT-BR | [Concrete](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Concrete-Solutions-EI_IE380126.13,31.htm) | Rio de Janeiro, RJ - Brazil | Native | Kotlin/Swift | [Challenge IOS](https://github.com/concretesolutions/ios-recruiting-brazil)|
 | PT-BR | [Easynvest](https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Easynvest-EI_IE1537251.13,22.htm) | São Paulo, SP - Brazil | Native | Kotlin/Swift | [Challenge Android](https://github.com/easynvest/teste-android)|
