@@ -29,7 +29,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <th>Country</th>
       <th>Company</th>
-      <th>Available Language</th>
+      <th>Status</th>
       <th>Glassdoor Reviews</th>
       <th>Challenge</th>
       <th>LinkedIn Positions</th>
@@ -39,7 +39,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Rio de Janeiro, Brazil</td>
       <td>Hurb</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com/Reviews/Hurb-Reviews-E936163.htm?countryRedirect=true"> ★★★ </a></td>
       <td><a href="https://github.com/hurbcom/challenge-alpha">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/hurb/jobs/">LinkedIn</a></td>
@@ -47,7 +47,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>San Francisco, USA</td>
       <td>Shrtlist</td>
-      <td>English</td>
+      <td>🟢</td>
       <td>N/A</td>
       <td><a href="https://github.com/shrtlist/upwards-ios-challenge">Challenge</a></td>
       <td>N/A</td>
@@ -55,7 +55,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>San Francisco, USA</td>
       <td>Varo Bank</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com/Visão-geral/Trabalhar-na-Varo-Bank-EI_IE1280936.13,22.htm">★★★</a></td>
       <td><a href="https://github.com/SamuelFolledo/CodingChallenge-WeatherApp">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/varo-money-inc./jobs/">LinkedIn</a></td>
@@ -63,7 +63,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Bentonville, USA</td>
       <td>Walmart</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com/Reviews/Walmart-Reviews-E715.htm">★★★</a></td>
       <td><a href="https://github.com/tarunkhurana2015/walmart-ios-code-challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/walmart/jobs/">LinkedIn</a></td>
@@ -71,7 +71,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Tokyo, Japan</td>
       <td>Mercari</td>
-      <td>Japanese/English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com/Reviews/Mercari-Reviews-E1421338.htm">★★★</a></td>
       <td><a href="https://github.com/shusuke0812/ios-engineer-codecheck">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/mercari-inc-/jobs/">LinkedIn</a></td>
@@ -79,7 +79,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>New York, USA</td>
       <td>JPMorgan Chase</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com/Reviews/J-P-Morgan-Reviews-E145.htm">★★★★</a></td>
       <td><a href="https://github.com/tarunkhurana2015/jpmc-ios-code-challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/jpmorganchase/">LinkedIn</a></td>
@@ -87,7 +87,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Docklands, Australia</td>
       <td>Medibank</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Medibank-EI_IE355206.13,21.htm">★★★</a></td>
       <td><a href="https://github.com/Medibank/coding-challenge-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/medibank/jobs/">LinkedIn</a></td>
@@ -95,7 +95,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Hamgurg, Germany</td>
       <td>Haiilo</td>
-      <td>English/German</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Haiilo-EI_IE7510621.13,19.htm">★★★</a></td>
       <td><a href="https://github.com/coyoapp/iOS-CodeChallenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/haiilo/">LinkedIn</a></td>
@@ -103,7 +103,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Vaduz, Liechtenstein</td>
       <td>Ethersuite</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-EtherMail-EI_IE8614070.13,22.htm">★</a></td>
       <td><a href="https://github.com/Ethersuite/ios-challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/ethermail/jobs/"> LinkedIn </a></td>
@@ -111,7 +111,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>London, UK</td>
       <td>RDX Works</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-RDX-Works-EI_IE8079032.13,22.htm">★★★★</a></td>
       <td><a href="https://github.com/Czajnikowski/RDXChallenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/radixdlt/jobs/">LinkedIn</a></td>
@@ -119,7 +119,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Bengaluru, India</td>
       <td>Geektrust</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Geektrust-EI_IE4467935.13,22.htm">★★★★</a></td>
       <td><a href="https://github.com/sparsh-sings/finding-falcone-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/geektrust/jobs/">LinkedIn</a></td>
@@ -127,7 +127,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Amsterdam, Netherlands</td>
       <td>Adyen</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Adyen-EI_IE684495.13,18.htm">★★★</a></td>
       <td><a href="https://github.com/iosappdeveloper/adyen-places-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/adyen/jobs/">LinkedIn</a></td>
@@ -135,7 +135,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Barueri, Brazil</td>
       <td>Digio</td>
-      <td>Portuguese</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-digio-EI_IE2484104.13,18.htm">★★★</a></td>
       <td><a href="https://github.com/kahjro/Digio-iOS">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/digiobrasil/jobs/">LinkedIn</a></td>
@@ -143,7 +143,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>New York, USA</td>
       <td>JOOR</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com/Reviews/JOOR-Reviews-E641089.htm">★★★</a></td>
       <td><a href="https://github.com/joor/iOS-Code-Challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/joor/jobs/">LinkedIn</a></td>
@@ -151,7 +151,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Stavanger, Norway</td>
       <td>One Code</td>
-      <td>English/German</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-OneCode-EI_IE2255260.13,20.htm">★★★</a></td>
       <td><a href="https://github.com/mr-casual/IceAndFire-iOS/blob/main/doc/Challenge-en.md">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/onecode-no/jobs/">LinkedIn</a></td>
@@ -159,7 +159,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Houston, USA</td>
       <td>Gonet USA</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-GoNet-EI_IE438583.13,18.htm">★★★ </a></td>
       <td><a href="https://github.com/hectorddmx/TVShows">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/gonet-usa/">LinkedIn</a></td>
@@ -167,7 +167,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>London, UK</td>
       <td>Streetbees</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Streetbees-EI_IE1284296.13,23.htm">★★★</a></td>
       <td><a href="https://github.com/Streetbees/ios-developer-challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/streetbees/jobs/">LinkedIn</a></td>
@@ -175,7 +175,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Costa Mesa, USA</td>
       <td>FightCamp</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-FightCamp-EI_IE3128913.13,22.htm">★★★★</a></td>
       <td><a href="https://github.com/zakdillon/fightcamp-take-home-challenge-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/fightcamp/jobs/">LinkedIn</a></td>
@@ -183,7 +183,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Vilnius, Lithuania</td>
       <td>KaChing</td>
-      <td>English</td>
+      <td>🟢</td>
       <td>N/A</td>
       <td><a href="https://github.com/ka-ching-as/take-home-assignment-junior-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/kaching-appz/">LinkedIn</a></td>
@@ -191,7 +191,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Waltham, USA</td>
       <td>Mobiquity</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Mobiquity-EI_IE403884.13,22.htm">★★★★</a></td>
       <td><a href="https://github.com/gabemdev/MobiquityChallenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/mobiquityinc/jobs/">LinkedIn</a></td>
@@ -199,7 +199,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>London, UK</td>
       <td>Badoo</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Badoo-EI_IE8424090.13,18.htm">★★★★</a></td>
       <td><a href="https://github.com/valeriyvan/BadooOverviewAssignment">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/badoo/jobs/">LinkedIn</a></td>
@@ -207,7 +207,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>San Salvador, El Salvador</td>
       <td>Real Action Soft</td>
-      <td>English</td>
+      <td>🟢</td>
       <td>N/A</td>
       <td><a href="https://github.com/realactionsoft/ios-dev-challenge-swift">Challenge</a></td>
       <td>N/A</td>
@@ -215,7 +215,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Stockholm, Sweden</td>
       <td>KRY</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Kry-EI_IE2461162.13,16.htm">★★★</a></td>
       <td><a href="https://github.com/kateryna-sfox/Senior-iOS-SwiftUI-developer-for-a-Swedish-healthcare-project/blob/main/Senior%20iOS%20(SwiftUI">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/kry/jobs/">LinkedIn</a></td>
@@ -223,7 +223,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Prague, Czech Rep.</td>
       <td>STRV</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-STRV-EI_IE878105.13,17.htm">★★★★</a></td>
       <td><a href="https://github.com/ssouzawallace/STRV-Test-Project-V3">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/strvcom/jobs/">LinkedIn</a></td>
@@ -231,7 +231,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Unknown</td>
       <td>Keys.AI</td>
-      <td>English</td>
+      <td>🟢</td>
       <td>N/A</td>
       <td><a href="https://github.com/charmedapp/keysCustomKeyboardChallenge">Challenge</a></td>
       <td>N/A</td>
@@ -239,15 +239,15 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>New York (2009), USA</td>
       <td>Goliath National Bank</td>
-      <td>English</td>
+      <td>🟢</td>
       <td><a href="https://www.goliathbank.com">★★★★★</a></td>
       <td><a href="https://github.com/clloret/goliath-national-bank-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/goliathnationalbank/">LinkedIn</a></td>
     </tr>
     <tr>
       <td>Los Angeles, USA</td>
-      <td>AppSci</td>
-      <td>English</td>
+      <td>AppScience | Sabio</td>
+      <td>🟢</td>
       <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Sabio-Holdings-EI_IE1448025.13,27.htm">★★★★</a></td>
       <td><a href="https://github.com/AppSci/Words-Booster-iOS-TestTask">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/appsci/jobs/">LinkedIn</a></td>
