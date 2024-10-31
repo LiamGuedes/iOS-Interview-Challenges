@@ -93,143 +93,119 @@ This repository is a collection of many code challenges available in github for 
       <td><a href="https://www.linkedin.com/company/medibank/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Germany</td>
-      <td>Coyo</td>
+      <td>Hamgurg, Germany</td>
+      <td>Haiilo</td>
       <td>English/German</td>
-      <td><a href="https://www.glassdoor.com/Reviews/COYO-Reviews-E1817903.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Haiilo-EI_IE7510621.13,19.htm">★★★</a></td>
       <td><a href="https://github.com/coyoapp/iOS-CodeChallenge">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/coyoapp/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/haiilo/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
+      <td>Vaduz, Liechtenstein</td>
       <td>Ethersuite</td>
       <td>English</td>
-      <td>N/A</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-EtherMail-EI_IE8614070.13,22.htm">★</a></td>
       <td><a href="https://github.com/Ethersuite/ios-challenge">Challenge</a></td>
-      <td>N/A</td>
+      <td><a href="https://www.linkedin.com/company/ethermail/jobs/"> LinkedIn </a></td>
     </tr>
     <tr>
-      <td>UK</td>
+      <td>London, UK</td>
       <td>RDX Works</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/RDX-Works-Reviews-E4211140.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-RDX-Works-EI_IE8079032.13,22.htm">★★★★</a></td>
       <td><a href="https://github.com/Czajnikowski/RDXChallenge">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/rdxworks/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/radixdlt/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>India</td>
+      <td>Bengaluru, India</td>
       <td>Geektrust</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Geektrust-Reviews-E2301405.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Geektrust-EI_IE4467935.13,22.htm">★★★★</a></td>
       <td><a href="https://github.com/sparsh-sings/finding-falcone-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/geektrust/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Netherlands</td>
+      <td>Amsterdam, Netherlands</td>
       <td>Adyen</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Adyen-Reviews-E587716.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Adyen-EI_IE684495.13,18.htm">★★★</a></td>
       <td><a href="https://github.com/iosappdeveloper/adyen-places-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/adyen/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Brazil</td>
+      <td>Barueri, Brazil</td>
       <td>Digio</td>
       <td>Portuguese</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Digio-Reviews-E1349648.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-digio-EI_IE2484104.13,18.htm">★★★</a></td>
       <td><a href="https://github.com/kahjro/Digio-iOS">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/digiooficial/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/digiobrasil/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
+      <td>New York, USA</td>
       <td>JOOR</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/JOOR-Reviews-E641089.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com/Reviews/JOOR-Reviews-E641089.htm">★★★</a></td>
       <td><a href="https://github.com/joor/iOS-Code-Challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/joor/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>Jobisity</td>
-      <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/nataliasapucaia/JobisityChallenge">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/jobisity/jobs/">LinkedIn</a></td>
+      <td>Stavanger, Norway</td>
+      <td>One Code</td>
+      <td>English/German</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-OneCode-EI_IE2255260.13,20.htm">★★★</a></td>
+      <td><a href="https://github.com/mr-casual/IceAndFire-iOS/blob/main/doc/Challenge-en.md">Challenge</a></td>
+      <td><a href="https://www.linkedin.com/company/onecode-no/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
+      <td>Houston, USA</td>
+      <td>Gonet USA</td>
       <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/mr-casual/IceAndFire-iOS">Challenge</a></td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
-      <td>English</td>
-      <td>N/A</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-GoNet-EI_IE438583.13,18.htm">★★★ </a></td>
       <td><a href="https://github.com/hectorddmx/TVShows">Challenge</a></td>
-      <td>N/A</td>
+      <td><a href="https://www.linkedin.com/company/gonet-usa/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
-      <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/heshamghalaab/WordGame">Challenge</a></td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>USA</td>
+      <td>London, UK</td>
       <td>Streetbees</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Streetbees-Reviews-E1140882.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Streetbees-EI_IE1284296.13,23.htm">★★★</a></td>
       <td><a href="https://github.com/Streetbees/ios-developer-challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/streetbees/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
+      <td>Costa Mesa, USA</td>
       <td>FightCamp</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/FightCamp-Reviews-E3022155.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-FightCamp-EI_IE3128913.13,22.htm">★★★★</a></td>
       <td><a href="https://github.com/zakdillon/fightcamp-take-home-challenge-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/fightcamp/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Denmark</td>
+      <td>Vilnius, Lithuania</td>
       <td>KaChing</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Ka-ching-Reviews-E1348004.htm">★★★★</a></td>
+      <td>N/A</td>
       <td><a href="https://github.com/ka-ching-as/take-home-assignment-junior-ios">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/kachingdk/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/kaching-appz/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>KFM</td>
-      <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/erwindosianipar/kfm-ios-test">Challenge</a></td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>Netherlands</td>
+      <td>Waltham, USA</td>
       <td>Mobiquity</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Mobiquity-Reviews-E456457.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Mobiquity-EI_IE403884.13,22.htm">★★★★</a></td>
       <td><a href="https://github.com/gabemdev/MobiquityChallenge">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/mobiquity-inc-/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/mobiquityinc/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>UK</td>
+      <td>London, UK</td>
       <td>Badoo</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Badoo-Reviews-E410305.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Badoo-EI_IE8424090.13,18.htm">★★★★</a></td>
       <td><a href="https://github.com/valeriyvan/BadooOverviewAssignment">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/badoo/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
+      <td>San Salvador, El Salvador</td>
       <td>Real Action Soft</td>
       <td>English</td>
       <td>N/A</td>
@@ -237,42 +213,42 @@ This repository is a collection of many code challenges available in github for 
       <td>N/A</td>
     </tr>
     <tr>
-      <td>Sweden</td>
+      <td>Stockholm, Sweden</td>
       <td>KRY</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/KRY-Reviews-E1420538.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Kry-EI_IE2461162.13,16.htm">★★★</a></td>
       <td><a href="https://github.com/kateryna-sfox/Senior-iOS-SwiftUI-developer-for-a-Swedish-healthcare-project/blob/main/Senior%20iOS%20(SwiftUI">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/kry/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Czech Rep.</td>
+      <td>Prague, Czech Rep.</td>
       <td>STRV</td>
       <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/STRV-Reviews-E837445.htm">★★★★</a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-STRV-EI_IE878105.13,17.htm">★★★★</a></td>
       <td><a href="https://github.com/ssouzawallace/STRV-Test-Project-V3">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/strv/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/strvcom/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
       <td>Unknown</td>
-      <td>Charmed App</td>
+      <td>Keys.AI</td>
       <td>English</td>
       <td>N/A</td>
       <td><a href="https://github.com/charmedapp/keysCustomKeyboardChallenge">Challenge</a></td>
       <td>N/A</td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
+      <td>New York (2009), USA</td>
+      <td>Goliath National Bank</td>
       <td>English</td>
-      <td>N/A</td>
+      <td><a href="https://www.goliathbank.com">★★★★★</a></td>
       <td><a href="https://github.com/clloret/goliath-national-bank-ios">Challenge</a></td>
-      <td>N/A</td>
+      <td><a href="https://www.linkedin.com/company/goliathnationalbank/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
+      <td>Los Angeles, USA</td>
       <td>AppSci</td>
       <td>English</td>
-      <td>N/A</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Sabio-Holdings-EI_IE1448025.13,27.htm">★★★★</a></td>
       <td><a href="https://github.com/AppSci/Words-Booster-iOS-TestTask">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/appsci/jobs/">LinkedIn</a></td>
     </tr>
