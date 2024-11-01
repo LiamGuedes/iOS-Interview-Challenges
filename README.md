@@ -48,9 +48,9 @@ This repository is a collection of many code challenges available in github for 
       <td>San Francisco, USA</td>
       <td>Shrtlist</td>
       <td>🟢</td>
-      <td>N/A</td>
+      <td>Unknown</td>
       <td><a href="https://github.com/shrtlist/upwards-ios-challenge">Challenge</a></td>
-      <td>N/A</td>
+      <td>Unknown</td>
     </tr>
     <tr>
       <td>San Francisco, USA</td>
@@ -184,7 +184,7 @@ This repository is a collection of many code challenges available in github for 
       <td>Vilnius, Lithuania</td>
       <td>KaChing</td>
       <td>🟢</td>
-      <td>N/A</td>
+      <td>Unknown</td>
       <td><a href="https://github.com/ka-ching-as/take-home-assignment-junior-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/kaching-appz/">LinkedIn</a></td>
     </tr>
@@ -208,9 +208,9 @@ This repository is a collection of many code challenges available in github for 
       <td>San Salvador, El Salvador</td>
       <td>Real Action Soft</td>
       <td>🟢</td>
-      <td>N/A</td>
+      <td>Unknown</td>
       <td><a href="https://github.com/realactionsoft/ios-dev-challenge-swift">Challenge</a></td>
-      <td>N/A</td>
+      <td>Unknown</td>
     </tr>
     <tr>
       <td>Stockholm, Sweden</td>
@@ -232,9 +232,9 @@ This repository is a collection of many code challenges available in github for 
       <td>Unknown</td>
       <td>Keys.AI</td>
       <td>🟢</td>
-      <td>N/A</td>
+      <td>Unknown</td>
       <td><a href="https://github.com/charmedapp/keysCustomKeyboardChallenge">Challenge</a></td>
-      <td>N/A</td>
+      <td>Unknown</td>
     </tr>
     <tr>
       <td>New York (2009), USA</td>
@@ -328,7 +328,7 @@ This repository is a collection of many code challenges available in github for 
       <td>Los Angeles, USA</td>
       <td>Mav Farm</td>
       <td>🟢</td>
-      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Mav-Farm-EI_IE3195368.13,21.htm"> N/A </a></td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Mav-Farm-EI_IE3195368.13,21.htm"> Unknown </a></td>
       <td><a href="https://github.com/mavfarm/coding-challenges/blob/master/iOS/Mav_Farm_iOS_Coding_Challenge.pdf">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/mav-farm/jobs/">LinkedIn</a></td>
     </tr>
@@ -381,106 +381,106 @@ This repository is a collection of many code challenges available in github for 
       <td><a href="https://www.linkedin.com/company/the-app-business/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Germany</td>
+      <td>Indiana, USA</td>
       <td>TUI</td>
-      <td>English/German</td>
-      <td><a href="https://www.glassdoor.com/Reviews/TUI-Group-Reviews-E10560.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td>Unknown</td>
       <td><a href="https://github.com/TuiMobilityHub/ios-code-challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/tui/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
+      <td>San Francisco, USA</td>
       <td>Tubi</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Tubi-Reviews-E1332244.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Tubi-EI_IE1264931.13,17.htm">★★★</a></td>
       <td><a href="https://github.com/BlakeBarrett/TubiTV-Coding-Challenge-iOS">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/tubitv/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Germany</td>
+      <td>Berlim, Germany</td>
       <td>German Autolabs</td>
-      <td>English/German</td>
-      <td><a href="https://www.glassdoor.com/Reviews/German-Autolabs-Reviews-E1643831.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-German-Autolabs-EI_IE2075000.13,28.htm">★★★★</a></td>
       <td><a href="https://github.com/GermanAutolabs/iOS-coding-challenge">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/germanautolabs/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/german-autolabs/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
+      <td>Provo, USA</td>
       <td>DevMountain</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/DevMountain-Reviews-E1025736.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-DevMountain-EI_IE936635.13,24.htm">★★★★</a></td>
       <td><a href="https://github.com/DevMountain/iOS-Applicant-Code-Challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/school/devmountain/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
-      <td>English</td>
-      <td>N/A</td>
+      <td>Brooklyn, USA</td>
+      <td>Alt Tab Consulting</td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Alt-Tab-EI_IE1559595.13,20.htm">★★</a></td>
       <td><a href="https://github.com/maxhuk/iOS-Code-Challenge">Challenge</a></td>
-      <td>N/A</td>
+      <td><a href="https://www.linkedin.com/company/alt-tab-consulting-usa-llc/about/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
+      <td>New York, USA</td>
       <td>TicketChat</td>
-      <td>English</td>
-      <td>N/A</td>
+      <td>🟢</td>
+      <td>Unknown</td>
       <td><a href="https://github.com/ticketchat/ios-technical-test">Challenge</a></td>
-      <td>N/A</td>
+      <td>Unknown</td>
     </tr>
     <tr>
-      <td>Brazil</td>
+      <td>Rio de Janeiro, Brazil</td>
       <td>Peixe Urbano</td>
-      <td>Portuguese</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Peixe-Urbano-Reviews-E383288.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Peixe-Urbano-EI_IE404577.13,25.htm">★★★</a></td>
       <td><a href="https://github.com/PeixeUrbano/desafio-ios">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/peixeurbano/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/peixe-urbano/">LinkedIn</a></td>
     </tr>
     <tr>
       <td>Unknown</td>
-      <td>WeFilmes</td>
-      <td>Portuguese</td>
-      <td>N/A</td>
+      <td>Unknown</td>
+      <td>🟢</td>
+      <td>Unknown</td>
       <td><a href="https://github.com/jamerson-macedo/ChallengeWeFilmes">Challenge</a></td>
-      <td>N/A</td>
+      <td>Unknown</td>
     </tr>
     <tr>
-      <td>Brazil</td>
-      <td>Kabum</td>
-      <td>Portuguese</td>
-      <td><a href="https://www.glassdoor.com/Reviews/KaBuM-Reviews-E666720.htm">★★★★</a></td>
+      <td>Limeira, Brazil</td>
+      <td>Kabum!</td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-KaBuM-EI_IE1266576.13,18.htm">★★★</a></td>
       <td><a href="https://github.com/Gaudio-Ney/KabumiOSDev">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/kabum.com.br/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/kabum/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Canada</td>
+      <td>Toronto, Canada</td>
       <td>500px</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/500px-Reviews-E677376.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-500px-EI_IE600778.13,18.htm">★★★</a></td>
       <td><a href="https://github.com/500px/mobile-challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/500px/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>France</td>
+      <td>Paris, France</td>
       <td>Aircall</td>
-      <td>English/French</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Aircall-Reviews-E1091510.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Aircall-EI_IE1146674.13,20.htm">★★★</a></td>
       <td><a href="https://github.com/aircall/ios-test">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/aircall/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
       <td>Brazil</td>
       <td>BTG Pactual</td>
-      <td>Portuguese</td>
-      <td><a href="https://www.glassdoor.com/Reviews/BTG-Pactual-Reviews-E353327.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-BTG-Pactual-EI_IE411540.13,24.htm">★★★</a></td>
       <td><a href="https://github.com/btg-mobile/mobile-challenge">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/btg-pactual/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/btgpactual/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Spain</td>
+      <td>Madrid, Spain</td>
       <td>Cabify</td>
-      <td>Spanish/English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Cabify-Reviews-E1034988.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Cabify-EI_IE975202.13,19.htm">★★★★</a></td>
       <td><a href="https://github.com/cabify/MobileChallenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/cabify/jobs/">LinkedIn</a></td>
     </tr>
