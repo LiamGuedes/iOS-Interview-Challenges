@@ -293,122 +293,90 @@ This repository is a collection of many code challenges available in github for 
       <td><a href="https://www.linkedin.com/company/aliens-developers-pvt-ltd/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Turkey</td>
+      <td>Austin, USA</td>
       <td>Roof Stacks</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Roofstacks-Reviews-E3577018.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-RoofStacks-EI_IE5281865.13,23.htm">★★★</a></td>
       <td><a href="https://github.com/melihbuyuk/SenioriOSEngineerCodingChallengeRoofStacks">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/roofstacks/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Germany</td>
+      <td>Berlin, Germany</td>
       <td>Audibene GmbH</td>
-      <td>English/German</td>
-      <td><a href="https://www.glassdoor.com/Reviews/audibene-Reviews-E970651.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-audibene-EI_IE1155737.13,21.htm">★★★</a></td>
       <td><a href="https://github.com/Audibene-GMBH/ios.coding_challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/audibene/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Canada</td>
+      <td>Quebec, Canada</td>
       <td>Beet Solutions</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Beet-Solutions-Reviews-E2272700.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Beet-Canada-EI_IE3960664.13,24.htm">★★</a></td>
       <td><a href="https://github.com/beetsolutions/code-challenge-frontend-ios">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/beetsolutions/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/beet-créativité-digitale/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
+      <td>Chicago, USA</td>
       <td>Tandem</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Tandem-Reviews-E282718.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Tandem-EI_IE1018130.13,19.htm">★★★</a></td>
       <td><a href="https://github.com/joshuabseitz/Trivia-iOS">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/madebytandem/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
+      <td>Los Angeles, USA</td>
       <td>Mav Farm</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Mav-Farm-Reviews-E1904178.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Mav-Farm-EI_IE3195368.13,21.htm"> N/A </a></td>
       <td><a href="https://github.com/mavfarm/coding-challenges/blob/master/iOS/Mav_Farm_iOS_Coding_Challenge.pdf">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/mav-farm/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
+      <td>Texas, USA</td>
       <td>Axxess</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Axxess-Reviews-E731915.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Axxess-EI_IE838888.13,19.htm">★★</a></td>
       <td><a href="https://github.com/MobileAxxess/iOS-Code-Challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/axxess-consult/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
+      <td>San Francisco, USA</td>
       <td>BloomTech</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Bloom-Institute-of-Technology-Reviews-E1626291.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Bloom-Institute-of-Technology-EI_IE1967834.13,42.htm">★★★</a></td>
       <td><a href="https://github.com/bloominstituteoftechnology/ios-code-challenge-instructions">Challenge</a></td>
       <td><a href="https://www.linkedin.com/school/bloominstituteoftechnology/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
-      <td>AppSci</td>
-      <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/AppSci/ios-test-task">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/appsci/jobs/">LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
-      <td>English</td>
-      <td>N/A</td>
+      <td>San Francisco, USA</td>
+      <td>Rune Labs</td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Rune-Labs-EI_IE3116564.13,22.htm">★★★★</a></td>
       <td><a href="https://github.com/onielrosario/ios-code-challenge-orosario">Challenge</a></td>
-      <td>N/A</td>
+      <td><a href="https://www.linkedin.com/company/rune-labs/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>Wild Studio</td>
-      <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/WildStudio/RecipesBook">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/wild-studio/jobs/">LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
-      <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/beavinash/ios-code-challenge-areddy">Challenge</a></td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
-      <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/ahrchen/ios-code-challenge-rchen">Challenge</a></td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>Australia</td>
+      <td>Los Angeles, USA</td>
       <td>Xplor</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Xplor-Reviews-E1985542.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Xplor-Education-EI_IE2196843.13,28.htm">★</a></td>
       <td><a href="https://github.com/myxplor/toy-robot-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/xplor-education/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
-      <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/djalfirevic/LOKI">Challenge</a></td>
-      <td>N/A</td>
+      <td>Kuala Lumpur, Malaysia</td>
+      <td>LOKI</td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Loki-EI_IE1023007.13,17.htm">★★★</a></td>
+      <td><a href="https://github.com/djalfirevic/LOKI/blob/master/LOKI%20iOS%20Test.pdf">Challenge</a></td>
+      <td><a href="https://www.linkedin.com/company/thisisloki/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>UK</td>
-      <td>The App Business</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/The-App-Business-Reviews-E664887.htm">★★★★</a></td>
+      <td>London, UK</td>
+      <td>TAB | Kin + Carta</td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Kin-Carta-EI_IE643120.13,22.htm">★★★</a></td>
       <td><a href="https://github.com/theappbusiness/engineering-challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/the-app-business/jobs/">LinkedIn</a></td>
     </tr>
