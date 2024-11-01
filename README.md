@@ -485,68 +485,68 @@ This repository is a collection of many code challenges available in github for 
       <td><a href="https://www.linkedin.com/company/cabify/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Brazil</td>
+      <td>Sao Paulo, Brazil</td>
       <td>Ciclic</td>
-      <td>Portuguese</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Ciclic-Reviews-E2614140.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Ciclic-EI_IE2788472.13,19.htm">★★★</a></td>
       <td><a href="https://github.com/ciclic/test-ios">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/ciclic/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Brazil</td>
+      <td>Sao Paulo, Brazil</td>
       <td>iCasei</td>
-      <td>Portuguese</td>
-      <td><a href="https://www.glassdoor.com/Reviews/iCasei-Reviews-E1073238.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-iCasei-EI_IE2696289.13,19.htm">★★★</a></td>
       <td><a href="https://github.com/icasei/teste-ios-developer">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/icasei/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Brazil</td>
+      <td>Sao Paulo, Brazil</td>
       <td>Claro Brasil</td>
-      <td>Portuguese</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Claro-Reviews-E24341.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Claro-EI_IE748887.13,18.htm">★★★★</a></td>
       <td><a href="https://github.com/mobile-clarobrasil/claro-brasil-challenge-ios">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/claro-brasil/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/clarobrasil/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Brazil</td>
+      <td>Rio de Janeiro, Brazil</td>
       <td>Concrete Solutions</td>
-      <td>Portuguese</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Concrete-Solutions-Reviews-E451300.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Concrete-Solutions-EI_IE380126.13,31.htm">★★★★</a></td>
       <td><a href="https://github.com/concretesolutions/ios-recruiting-brazil">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/concrete-solutions/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/concrete-solutionsconsultant/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Poland</td>
+      <td>Poznań, Poland</td>
       <td>Snowdog Apps</td>
-      <td>English/Polish</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Snowdog-Reviews-E1449660.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Snowdog-EI_IE1349332.13,20.htm">★★★★</a></td>
       <td><a href="https://github.com/SnowdogApps/ios-recruitment-test">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/snowdog/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Brazil</td>
+      <td>Sao Paulo, Brazil</td>
       <td>Viva Decora</td>
-      <td>Portuguese</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Viva-Decora-Reviews-E1332201.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Viva-Decora-EI_IE2779238.13,24.htm">★★★★</a></td>
       <td><a href="https://github.com/vivadecora/ios-teste">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/viva-decora/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>USA</td>
+      <td>Brooklyn, USA</td>
       <td>VICE Media</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Vice-Media-Reviews-E34339.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Vice-Media-EI_IE26906.13,23.htm">★★</a></td>
       <td><a href="https://github.com/VICEMedia/mobile-challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/vice-media/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Canada</td>
+      <td>Toronto, Canada</td>
       <td>TradeRev</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/TradeRev-Reviews-E1005226.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-TradeRev-EI_IE1039871.13,21.htm">★★★</a></td>
       <td><a href="https://github.com/TradeRev/mobile-coding-challenge">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/traderev/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/openlane/">LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
