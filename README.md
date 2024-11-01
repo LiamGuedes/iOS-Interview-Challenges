@@ -253,60 +253,44 @@ This repository is a collection of many code challenges available in github for 
       <td><a href="https://www.linkedin.com/company/appsci/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
-      <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/dustinlange/iOS-code-challenge">Challenge</a></td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>Morocco</td>
+      <td>New York, USA</td>
       <td>Gemography</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Gemography-Reviews-E1714330.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Gemography-EI_IE3356499.13,23.htm">★★★★</a></td>
       <td><a href="https://github.com/gemography/mobile-coding-challenge">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/gemography/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>Circle</td>
-      <td>English</td>
-      <td>N/A</td>
+      <td>Cardiff, UK</td>
+      <td>Circle | Aro Tech</td>
+      <td>🟢</td>
+      <td><a href="https://www.linkedin.com/company/arotechnology/jobs/">★★★★</a></td>
       <td><a href="https://github.com/djalfirevic/CircleChallenge">Challenge</a></td>
-      <td>N/A</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Circle-EI_IE3611549.13,19.htm">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>UK</td>
+      <td>London, UK</td>
       <td>Rightmove</td>
-      <td>English</td>
-      <td><a href="https://www.glassdoor.com/Reviews/Rightmove-Reviews-E38110.htm">★★★★</a></td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Rightmove-EI_IE39764.13,22.htm">★★★</a></td>
       <td><a href="https://github.com/rightmove/Code-Challenge-iOS">Challenge</a></td>
       <td><a href="https://www.linkedin.com/company/rightmove/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
-      <td>English</td>
-      <td>N/A</td>
+      <td>Rio de Janeiro, Brazil</td>
+      <td>ALLOS</td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-ALLOS-EI_IE9079818.13,18.htm">★★★★</a></td>
       <td><a href="https://github.com/tozzetti/ios-challenge">Challenge</a></td>
-      <td>N/A</td>
+      <td><a href="https://www.linkedin.com/company/somosallos/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>Unknown</td>
-      <td>N/A</td>
-      <td>English</td>
-      <td>N/A</td>
+      <td>Hyderābād, Índia</td>
+      <td>Aliens Developers</td>
+      <td>🟢</td>
+      <td><a href="https://www.glassdoor.com.br/Visão-geral/Trabalhar-na-Aliens-Developers-EI_IE533134.13,30.htm">★★★</a></td>
       <td><a href="https://github.com/djalfirevic/Aliens">Challenge</a></td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>USA</td>
-      <td>AppSci</td>
-      <td>English</td>
-      <td>N/A</td>
-      <td><a href="https://github.com/AppSci/ios-test-task-redux">Challenge</a></td>
-      <td><a href="https://www.linkedin.com/company/appsci/jobs/">LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/company/aliens-developers-pvt-ltd/jobs/">LinkedIn</a></td>
     </tr>
     <tr>
       <td>Turkey</td>
