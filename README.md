@@ -1,19 +1,23 @@
 <h1>iOS Interview Challenges</h1> 
+<div style="display: flex;"> 
+ <img src="https://github.com/user-attachments/assets/f7c129a6-fdb0-48f5-a494-847fb7cddb19"/> 
+ <img src="https://github.com/user-attachments/assets/220cbfaa-7615-4beb-bd3e-10cc94a73c07"/>
+ <img src="https://github.com/user-attachments/assets/c396ff66-1ad3-47a1-94ef-9a1ab08a4552"/>
+ <img src="https://github.com/user-attachments/assets/ca2d40c5-a24e-4f67-a76e-feb627e5fbc6"/>
+</div>
 
- [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/kd9cpJ0buyLDZTgIB0/giphy.gif" width="100%"/>
-</p>
+</div>
 
 <h1>Introduction</h1>
 <p>
   <a href="#projectchallenges">Project Challenges</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#codechallenges">Code Challenges</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#question">Interview Questions</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#warmup">Warmup Kit</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#learning">Learning Kit and Sources</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#info">Information Source</a>
+  <a href="#books"> Books Recomendations </a>&nbsp;&nbsp;|&nbsp;
+  <a href="#codechallenges"> Code Challenges </a>&nbsp;&nbsp;|&nbsp;
+  <a href="#interview"> Interview Questions </a>&nbsp;&nbsp;|&nbsp;
+  <a href="#warmup">  Warmup Kit </a>&nbsp;&nbsp;|&nbsp;
+  <a href="#allstars"> iOS All Stars </a>
 </p>
 
 <p align="justify"> 
@@ -552,6 +556,16 @@ This repository is a collection of many code challenges available in github for 
 </table>
 
 <br/>
+
+<h1>Coming Soon in The Next PR's</h1>
+<ul>
+ <li> Bookshelf </li>
+ <li> Code Challenges </li>
+ <li> Interview Questions </li>
+ <li> Warmup Kit </li>
+ <li> iOS All Stars </li>
+</ul>
+
 <h1>Contribute</h1>
 
  **Share** challenges, helpful websites and articles with us through a pull request with table fields where you want to add.
