@@ -1,3 +1,4 @@
+
 <h1>iOS Interview Challenges</h1> 
 <div style="display: flex;"> 
  <img src="https://github.com/user-attachments/assets/f7c129a6-fdb0-48f5-a494-847fb7cddb19"/> 
@@ -5,6 +6,7 @@
  <img src="https://github.com/user-attachments/assets/c396ff66-1ad3-47a1-94ef-9a1ab08a4552"/>
  <img src="https://github.com/user-attachments/assets/ca2d40c5-a24e-4f67-a76e-feb627e5fbc6"/>
 </div>
+<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/kd9cpJ0buyLDZTgIB0/giphy.gif" width="100%"/>
