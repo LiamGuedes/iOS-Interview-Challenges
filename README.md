@@ -16,11 +16,11 @@
 <h1>Introduction</h1>
 <p>
   <a href="#projectchallenges">Project Challenges</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#books"> Books Recomendations </a>&nbsp;&nbsp;|&nbsp;
-  <a href="#codechallenges"> Code Challenges </a>&nbsp;&nbsp;|&nbsp;
-  <a href="#interview"> Interview Questions </a>&nbsp;&nbsp;|&nbsp;
-  <a href="#warmup">  Warmup Kit </a>&nbsp;&nbsp;|&nbsp;
-  <a href="#allstars"> iOS All Stars </a>
+  <a href="#books">Books Recomendations</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#codechallenges">Code Challenges</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#interview">Interview Questions</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#warmup">Warmup Kit</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#allstars">iOS All Stars</a>
 </p>
 
 <p align="justify"> 
@@ -560,14 +560,66 @@ This repository is a collection of many code challenges available in github for 
 
 <br/>
 
-<h1>Coming Soon in The Next PR's</h1>
-<ul>
- <li> Bookshelf </li>
- <li> Code Challenges </li>
- <li> Interview Questions </li>
- <li> Warmup Kit </li>
- <li> iOS All Stars </li>
-</ul>
+<h1> Learning Center </h1>
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Author</th>
+      <th>Source</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Books</td>
+      <td>Bogdan Bystritskiy</td>
+      <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+      <td> An awesome book list with over than 100 books that covers all about iOS. It's recommended to all levels, who is beginner or who wants to get a deep dive into this awesome platform</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1> Interview Warmup </h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Name</th>
+      <th>Source</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Books</td>
+      <td>Bogdan Bystritskiy</td>
+      <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+      <td> An awesome book list with over than 100 books that covers all about iOS. It's recommended to all levels, who is beginner or who wants to get a deep dive into this awesome platform</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1> iOS All-Stars </h1>
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Name</th>
+      <th>Social Media</th>
+      <th>What's Talking About</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Books</td>
+      <td>Bogdan Bystritskiy</td>
+      <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+      <td> An awesome book list with over than 100 books that covers all about iOS. It's recommended to all levels, who is beginner or who wants to get a deep dive into this awesome platform</td>
+    </tr>
+  </tbody>
+</table>
 
 <h1>Contribute</h1>
 
