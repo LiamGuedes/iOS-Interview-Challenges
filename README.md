@@ -1,6 +1,6 @@
 
 <h1>iOS Interview Challenges</h1> 
-<div style="display: flex;"> 
+<div style="display: flex; gap: 15px; flex-wrap: wrap;"> 
  <img src="https://github.com/user-attachments/assets/f7c129a6-fdb0-48f5-a494-847fb7cddb19"/> 
  <img src="https://github.com/user-attachments/assets/220cbfaa-7615-4beb-bd3e-10cc94a73c07"/>
  <img src="https://github.com/user-attachments/assets/c396ff66-1ad3-47a1-94ef-9a1ab08a4552"/>
@@ -11,6 +11,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/kd9cpJ0buyLDZTgIB0/giphy.gif" width="100%"/>
 </div>
+<br>
 
 <h1>Introduction</h1>
 <p>
