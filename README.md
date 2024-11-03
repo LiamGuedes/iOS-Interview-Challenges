@@ -756,6 +756,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <th>Talk About</th>
       <th>Name</th>
+      <th>Spoken Language</th>
       <th>Source</th>
     </tr>
   </thead>
@@ -763,6 +764,7 @@ This repository is a collection of many code challenges available in github for 
     <tr>
       <td>Books</td>
       <td>Bogdan Bystritskiy</td>
+      <td></td>
       <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
     </tr>
   </tbody>
