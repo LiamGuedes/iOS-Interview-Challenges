@@ -656,6 +656,20 @@ This repository is a collection of many code challenges available in github for 
       <td> Paid / Free </td>
       <td> This 12-course series covers essential topics such as Swift programming, user interface design with SwiftUI, and app lifecycle management. Learners will engage in hands-on projects, including building a native iOS app, to develop practical experience. </td>
     </tr>
+    <tr>
+      <td> All in One </td>
+      <td> Appcoda </td>
+      <td><a href="https://appcoda.com">Link</a></td>
+      <td> Paid / Free </td>
+      <td> AppCoda is a leading platform offering comprehensive tutorials, eBooks, and app templates for iOS development. It caters to both beginners and experienced developers, covering topics such as Swift, SwiftUI, and UIKit. The platform emphasizes a "learn by doing" approach, providing step-by-step guides and practical examples to help users build real-world applications. </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> DesignCode.io </td>
+      <td><a href="https://appcoda.com">Link</a></td>
+      <td> Paid </td>
+      <td> Design+Code offers comprehensive courses and tutorials on UI design and app development, focusing on tools like React, SwiftUI, Figma, and AI technologies. Their content is tailored for both designers and developers, emphasizing practical, real-world applications. </td>
+    </tr>
   </tbody>
 </table>
 
