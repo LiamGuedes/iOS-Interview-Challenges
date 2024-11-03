@@ -22,8 +22,9 @@
 </p>
 
 <p align="justify"> 
-Are you nervous for that company challenge and don't know how it will be? Be relax, your problems is over.
-This repository is a collection of many code challenges available in github for mobile developers, where you can find the code tests applied in many companies and can use it to prepare for that fearsome interview.
+Feeling nervous about an upcoming coding challenge and unsure what to expect? Relax—this repository will be your best buddy!
+
+This collection gathers a wide range of coding challenges tailored for mobile developers, along with valuable resources such as learning materials, recommended developers to follow, and interview prep guides, from many kinds of sources like books, articles, and more. You’ll also find code tests used by various companies, making this the perfect resource to help you confidently prepare for that fearsome and challenging interview.
 </p>
 <br/>
 
@@ -653,9 +654,16 @@ This repository is a collection of many code challenges available in github for 
       <td><a href="https://appcoda.com">Link</a></td>
       <td> Paid </td>
     </tr>
+    <tr>
+      <td> All in One </td>
+      <td> Refactoring Guru </td>
+      <td><a href="https://refactoring.guru/design-patterns">Link</a></td>
+      <td> Paid / Free </td>
+    </tr>
   </tbody>
 </table>
 <br/>
+
 
 <h1 id="interviewkit"> Interview Kit </h1>
 <table width="100%">
@@ -750,20 +758,100 @@ This repository is a collection of many code challenges available in github for 
 </table>
 <br/>
 
-<h1 id="allstars"> iOS All-Stars </h1>
+<h1 id="allstars"> Developers to Follow </h1>
 <table width="100%">
   <thead>
     <tr>
       <th>Talk About</th>
       <th>Name</th>
+      <th>Spoken Language</th>
       <th>Source</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Books</td>
-      <td>Bogdan Bystritskiy</td>
-      <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+      <td>iOS Development and Swift</td>
+      <td>Dmitry В</td>
+      <td>English</td>
+      <td><a href="linkedin.com/in/dmitry-в-421219229">Link</a></td>
+    </tr>
+    <tr>
+      <td>Software Development and Career</td>
+      <td>Kevin Topollaj</td>
+      <td>English</td>
+      <td><a href="linkedin.com/in/kevin-topollaj-189b3b154">Link</a></td>
+    </tr>
+    <tr>
+      <td>iOS and Mentorship</td>
+      <td>Caio Zullo</td>
+      <td>Portuguese</td>
+      <td><a href="linkedin.com/in/caiozullo">Link</a></td>
+    </tr>
+    <tr>
+      <td>Software Development and Carrer</td>
+      <td>Fabio Akita</td>
+      <td>Portuguese</td>
+      <td><a href="https://www.linkedin.com/in/akitaonrails/">Link</a></td>
+    </tr>
+    <tr>
+      <td>Mobile Architecture and Development</td>
+      <td>Naresh Kukkala</td>
+      <td>English</td>
+      <td><a href="linkedin.com/in/naresh-kukkala">Link</a></td>
+    </tr>
+    <tr>
+      <td>Software Development</td>
+      <td>César Giupponi</td>
+      <td>Portuguese</td>
+      <td><a href="linkedin.com/in/cesargiupponi">Link</a></td>
+    </tr>
+    <tr>
+      <td>iOS Development</td>
+      <td>Marcelo G. Costa</td>
+      <td>Portuguese</td>
+      <td><a href="linkedin.com/in/marcelo-g-costa-br">Link</a></td>
+    </tr>
+    <tr>
+      <td>iOS Development</td>
+      <td>Vincent Pradeilles</td>
+      <td>English</td>
+      <td><a href="linkedin.com/in/vincentpradeilles">Link</a></td>
+    </tr>
+    <tr>
+      <td>Mobile Engineering and Carrer</td>
+      <td>Bullas Attekita</td>
+      <td>Portuguese</td>
+      <td><a href="linkedin.com/in/bullas-attekita">Link</a></td>
+    </tr>
+    <tr>
+      <td>iOS Development</td>
+      <td>Jordan W. Morgan</td>
+      <td>English</td>
+      <td><a href="linkedin.com/in/jordanwmorgan">Link</a></td>
+    </tr>
+    <tr>
+      <td>iOS Development</td>
+      <td>Brian Voong</td>
+      <td>English</td>
+      <td><a href="linkedin.com/in/brian-voong">Link</a></td>
+    </tr>
+    <tr>
+      <td>iOS Development</td>
+      <td>Paul Hudson</td>
+      <td>English</td>
+      <td><a href="linkedin.com/in/twostraws">Link</a></td>
+    </tr>
+    <tr>
+      <td>iOS Development</td>
+      <td>John Sundell</td>
+      <td>English</td>
+      <td><a href="linkedin.com/in/johnsundell">Link</a></td>
+    </tr>
+    <tr>
+      <td>Software Engineering</td>
+      <td>Alex V. Bush</td>
+      <td>English</td>
+      <td><a href="linkedin.com/in/alexvbush">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -771,8 +859,10 @@ This repository is a collection of many code challenges available in github for 
 
 <h1>Contribute</h1>
 
- **Share** challenges, helpful websites and articles with us through a pull request with table fields where you want to add.
- **Improve** this repository with new sections through a pull request with your modifications.
+<p align="justify"><strong>IMPROVE</strong> the repository by adding new challenges, technical material, interview resources, recommended developers to follow, or anything you believe will benefit the iOS developer community. New sections with additional resources and fresh ideas that help developers prepare for Any-level interviews are always welcome.</p>
+
+<p align="justify"><strong>SHARE</strong> this repository with friends, colleagues, or anyone gearing up for their next interview or seeking new opportunities. Remember, everyone was once at the beginning of their career or striving to reach their dream job. Together, we can help each other succeed!</p>
+
 
 ## About
 Inspired by [@felipefialho](https://github.com/felipefialho) awesome repository [Front-End Challenges](https://github.com/felipefialho/frontend-challenges)
