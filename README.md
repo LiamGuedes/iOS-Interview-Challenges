@@ -567,6 +567,7 @@ This repository is a collection of many code challenges available in github for 
       <th>Category</th>
       <th>Name</th>
       <th>Source</th>
+      <th> Price </th>
       <th>Description</th>
     </tr>
   </thead>
@@ -575,42 +576,90 @@ This repository is a collection of many code challenges available in github for 
       <td>Books</td>
       <td>Awesome iOS Books</td>
       <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+      <td> Paid </td>
       <td> A curated directory of over 100 iOS development books, covering topics from beginner to advanced levels, including Swift, Objective-C, UI design, architecture, and more. This resource is ideal for developers seeking comprehensive literature to enhance their iOS development skills. </td>
     </tr>
     <tr>
       <td>Books / Course</td>
       <td> obj.io </td>
       <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+      <td> Paid </td>
       <td> A website that offers in-depth articles, books, and videos on advanced iOS and macOS development topics. Ideal for intermediate to advanced developers looking to deepen their knowledge in Objective-C, Swift, and related frameworks.</td>
     </tr>
     <tr>
       <td>Books / Course</td>
       <td> Nil Coalescing </td>
       <td><a href="https://books.nilcoalescing.com">Link</a></td>
+      <td> Paid </td>
       <td> A website offering advanced Swift programming books, including "Swift Gems" and "Integrating SwiftUI into UIKit Apps," authored by Natalia Panferova. These resources provide experienced developers with concise tips and techniques to enhance their Swift expertise across various platforms </td>
     </tr>
     <tr>
       <td> Books </td>
       <td> Best in Class </td>
       <td><a href="https://www.bestinclassiosapp.com">Link<a></td>
+      <td> Paid </td>
       <td> A comprehensive resource offering a five-book series on iOS development, covering accessibility, design, user experience, and iOS APIs. Authored by Jordan Morgan, the series includes code samples and access to a private Discord community, making it suitable for developers aiming to create top-tier iOS applications. </td>
     </tr>
     <tr>
       <td> Course </td>
       <td> Essential Developer </td>
       <td><a href="https://www.essentialdeveloper.com">Link</a></td>
+      <td> Paid </td>
       <td> Essential Developer offers comprehensive training programs for iOS developers aiming to advance to senior levels. Their flagship course, iOS Lead Essentials, focuses on modern development practices, software architecture, and Test-Driven Development (TDD). The platform also provides free resources, including articles and a YouTube series, to support continuous learning. </td>
     </tr>
     <tr>
-      <td> </td>
-      <td>  </td>
-      <td><a href="">Link</a></td>
-      <td> </td>
+      <td> Course </td>
+      <td> Let's Build That App </td>
+      <td><a href="https://www.letsbuildthatapp.com">Link</a></td>
+      <td> Paid / Free </td>
+      <td> A platform offering comprehensive courses and tutorials on iOS development, focusing on SwiftUI and JavaScript to build full-stack applications. It provides both free and premium content, including real-world application projects, to help developers enhance their skills. </td>
+    </tr>
+    <tr>
+      <td> Articles </td>
+      <td> Swift By Sundell </td>
+      <td><a href="https://www.swiftbysundell.com">Link</a></td>
+      <td> Free </td>
+      <td> Swift by Sundell is a comprehensive resource for Swift developers, offering in-depth articles, podcasts, and tutorials on various aspects of Swift programming and iOS development. Authored by John Sundell, the platform covers topics such as SwiftUI, concurrency, generics, and unit testing, catering to developers of all skill levels. </td>
+    </tr>
+    <tr>
+      <td> All in One </td>
+      <td> Hacking With Swift </td>
+      <td><a href="https://www.hackingwithswift.com">Link</a></td>
+      <td> Paid / Free </td>
+      <td> Hacking with Swift is a comprehensive platform offering free and paid tutorials, courses, and books on Swift and iOS development. It caters to all skill levels, providing resources like the "100 Days of SwiftUI" and "Swift in Sixty Seconds" to help developers build real-world projects using SwiftUI and UIKit. </td>
+    </tr>
+    <tr>
+      <td> All in One </td>
+      <td> Kodeco </td>
+      <td><a href="https://www.kodeco.com">Link</a></td>
+      <td> Paid / Free </td>
+      <td> Kodeco is a comprehensive platform offering tutorials, courses, and books on iOS, Android, and Flutter development. It caters to developers of all skill levels, providing resources to enhance mobile development expertise. </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> Stanford CS193p </td>
+      <td><a href="https://cs193p.sites.stanford.edu/2023">Link</a></td>
+      <td> Free </td>
+      <td> This course cover topics such as SwiftUI basics, MVVM architecture, animations, and multithreading. Additionally, supporting materials like homework assignments and demo code are accessible, making it a valuable resource for developers aiming to enhance their iOS development skills. </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> iOS Development for Creative Entrepreneurs Specialization </td>
+      <td><a href="https://www.coursera.org/specializations/ios-development?utm_content=bts_2_english_final&utm_medium=email&utm_source=marketing&utm_campaign=FChGMFzDEeWvgF9FMLID1g~FChGMFzDEeWvgF9FMLID1g">Link</a></td>
+      <td> Paid / Free </td>
+      <td> This six-course series covers essential topics such as Objective-C, UIKit, SpriteKit, networking, security, and sensor frameworks. The program culminates in a Capstone Project, where learners create a networked game leveraging device sensors, providing practical experience and a portfolio-ready project. </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> Meta iOS Developer Professional Certificate </td>
+      <td><a href="https://www.coursera.org/specializations/ios-development?utm_content=bts_2_english_final&utm_medium=email&utm_source=marketing&utm_campaign=FChGMFzDEeWvgF9FMLID1g~FChGMFzDEeWvgF9FMLID1g">Link</a></td>
+      <td> Paid / Free </td>
+      <td> This 12-course series covers essential topics such as Swift programming, user interface design with SwiftUI, and app lifecycle management. Learners will engage in hands-on projects, including building a native iOS app, to develop practical experience. </td>
     </tr>
   </tbody>
 </table>
 
-<h1> Interview Warmup </h1>
+<h1> Interview Kit </h1>
 
 <table>
   <thead>
