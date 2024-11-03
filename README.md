@@ -16,10 +16,8 @@
 <h1>Introduction</h1>
 <p>
   <a href="#projectchallenges">Project Challenges</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#books">Books Recomendations</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#codechallenges">Code Challenges</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#interview">Interview Questions</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#warmup">Warmup Kit</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#learningcenter">Learning Center</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#interviewkit">Interview Kit</a>&nbsp;&nbsp;|&nbsp;
   <a href="#allstars">iOS All Stars</a>
 </p>
 
@@ -29,7 +27,7 @@ This repository is a collection of many code challenges available in github for 
 </p>
 <br/>
 
-<h1>iOS Project Challenges</h1>
+<h1 id="projectchallenges">iOS Project Challenges</h1>
 
 <table width="100%">
   <thead>
@@ -560,14 +558,14 @@ This repository is a collection of many code challenges available in github for 
 
 <br/>
 
-<h1> Learning Center </h1>
+<h1 id="learningcenter"> Learning Center </h1>
 <table width="100%">
   <thead>
     <tr>
       <th>Category</th>
       <th>Name</th>
       <th>Source</th>
-      <th> Price </th>
+      <th>Price</th>
     </tr>
   </thead>
   <tbody>
@@ -657,16 +655,16 @@ This repository is a collection of many code challenges available in github for 
     </tr>
   </tbody>
 </table>
+<br/>
 
-<h1> Interview Kit </h1>
-
-<table>
+<h1 id="interviewkit"> Interview Kit </h1>
+<table width="100%">
   <thead>
     <tr>
       <th>Category</th>
       <th>Name</th>
       <th>Source</th>
-      <th>Description</th>
+      <th>Price</th>
     </tr>
   </thead>
   <tbody>
@@ -674,19 +672,19 @@ This repository is a collection of many code challenges available in github for 
       <td>Books</td>
       <td>Bogdan Bystritskiy</td>
       <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
-      <td> An awesome book list with over than 100 books that covers all about iOS. It's recommended to all levels, who is beginner or who wants to get a deep dive into this awesome platform</td>
+      <td> Paid / Free</td>
     </tr>
   </tbody>
 </table>
+<br/>
 
-<h1> iOS All-Stars </h1>
-<table>
+<h1 id="allstars"> iOS All-Stars </h1>
+<table width="100%">
   <thead>
     <tr>
-      <th>Category</th>
+      <th>Talk About</th>
       <th>Name</th>
-      <th>Social Media</th>
-      <th>What's Talking About</th>
+      <th>Source</th>
     </tr>
   </thead>
   <tbody>
@@ -694,10 +692,10 @@ This repository is a collection of many code challenges available in github for 
       <td>Books</td>
       <td>Bogdan Bystritskiy</td>
       <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
-      <td> An awesome book list with over than 100 books that covers all about iOS. It's recommended to all levels, who is beginner or who wants to get a deep dive into this awesome platform</td>
     </tr>
   </tbody>
 </table>
+<br/>
 
 <h1>Contribute</h1>
 
