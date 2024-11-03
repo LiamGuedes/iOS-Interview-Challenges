@@ -773,19 +773,19 @@ This collection gathers a wide range of coding challenges tailored for mobile de
       <td>iOS Development and Swift</td>
       <td>Dmitry В</td>
       <td>English</td>
-      <td><a href="linkedin.com/in/dmitry-в-421219229">Link</a></td>
+      <td><a href="https://linkedin.com/in/dmitry-в-421219229">Link</a></td>
     </tr>
     <tr>
       <td>Software Development and Career</td>
       <td>Kevin Topollaj</td>
       <td>English</td>
-      <td><a href="linkedin.com/in/kevin-topollaj-189b3b154">Link</a></td>
+      <td><a href="https://linkedin.com/in/kevin-topollaj-189b3b154">Link</a></td>
     </tr>
     <tr>
       <td>iOS and Mentorship</td>
       <td>Caio Zullo</td>
       <td>Portuguese</td>
-      <td><a href="linkedin.com/in/caiozullo">Link</a></td>
+      <td><a href="https://linkedin.com/in/caiozullo">Link</a></td>
     </tr>
     <tr>
       <td>Software Development and Carrer</td>
@@ -797,61 +797,61 @@ This collection gathers a wide range of coding challenges tailored for mobile de
       <td>Mobile Architecture and Development</td>
       <td>Naresh Kukkala</td>
       <td>English</td>
-      <td><a href="linkedin.com/in/naresh-kukkala">Link</a></td>
+      <td><a href="https://linkedin.com/in/naresh-kukkala">Link</a></td>
     </tr>
     <tr>
       <td>Software Development</td>
       <td>César Giupponi</td>
       <td>Portuguese</td>
-      <td><a href="linkedin.com/in/cesargiupponi">Link</a></td>
+      <td><a href="https://linkedin.com/in/cesargiupponi">Link</a></td>
     </tr>
     <tr>
       <td>iOS Development</td>
       <td>Marcelo G. Costa</td>
       <td>Portuguese</td>
-      <td><a href="linkedin.com/in/marcelo-g-costa-br">Link</a></td>
+      <td><a href="https://linkedin.com/in/marcelo-g-costa-br">Link</a></td>
     </tr>
     <tr>
       <td>iOS Development</td>
       <td>Vincent Pradeilles</td>
       <td>English</td>
-      <td><a href="linkedin.com/in/vincentpradeilles">Link</a></td>
+      <td><a href="https://linkedin.com/in/vincentpradeilles">Link</a></td>
     </tr>
     <tr>
       <td>Mobile Engineering and Carrer</td>
       <td>Bullas Attekita</td>
       <td>Portuguese</td>
-      <td><a href="linkedin.com/in/bullas-attekita">Link</a></td>
+      <td><a href="https://linkedin.com/in/bullas-attekita">Link</a></td>
     </tr>
     <tr>
       <td>iOS Development</td>
       <td>Jordan W. Morgan</td>
       <td>English</td>
-      <td><a href="linkedin.com/in/jordanwmorgan">Link</a></td>
+      <td><a href="https://linkedin.com/in/jordanwmorgan">Link</a></td>
     </tr>
     <tr>
       <td>iOS Development</td>
       <td>Brian Voong</td>
       <td>English</td>
-      <td><a href="linkedin.com/in/brian-voong">Link</a></td>
+      <td><a href="https://linkedin.com/in/brian-voong">Link</a></td>
     </tr>
     <tr>
       <td>iOS Development</td>
       <td>Paul Hudson</td>
       <td>English</td>
-      <td><a href="linkedin.com/in/twostraws">Link</a></td>
+      <td><a href="https://linkedin.com/in/twostraws">Link</a></td>
     </tr>
     <tr>
       <td>iOS Development</td>
       <td>John Sundell</td>
       <td>English</td>
-      <td><a href="linkedin.com/in/johnsundell">Link</a></td>
+      <td><a href="https://linkedin.com/in/johnsundell">Link</a></td>
     </tr>
     <tr>
       <td>Software Engineering</td>
       <td>Alex V. Bush</td>
       <td>English</td>
-      <td><a href="linkedin.com/in/alexvbush">Link</a></td>
+      <td><a href="https://linkedin.com/in/alexvbush">Link</a></td>
     </tr>
   </tbody>
 </table>
