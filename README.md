@@ -651,7 +651,7 @@ This collection gathers a wide range of coding challenges tailored for mobile de
     <tr>
       <td> Course </td>
       <td> DesignCode.io </td>
-      <td><a href="https://appcoda.com">Link</a></td>
+      <td><a href="https://designcode.io">Link</a></td>
       <td> Paid </td>
     </tr>
     <tr>
