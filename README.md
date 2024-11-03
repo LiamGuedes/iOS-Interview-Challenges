@@ -685,73 +685,73 @@ This collection gathers a wide range of coding challenges tailored for mobile de
     <tr>
       <td>Code Challenges</td>
       <td>Leetcode</td>
-      <td><a href="leetcode.com">Link</a></td>
+      <td><a href="https://leetcode.com">Link</a></td>
       <td>Paid / Free</td>
     </tr>
     <tr>
       <td>Code Challenges</td>
       <td>Hacker Rank</td>
-      <td><a href="hackerrank.com">Link</a></td>
+      <td><a href="https://hackerrank.com">Link</a></td>
       <td>Free</td>
     </tr>
     <tr>
       <td>Code Challenges</td>
       <td>Code Wars</td>
-      <td><a href="codewars.com">Link</a></td>
+      <td><a href="https://codewars.com">Link</a></td>
       <td>Free</td>
     </tr>
     <tr>
       <td>Math Challenges</td>
       <td>Project Euler</td>
-      <td><a href="projecteuler.net">Link</a></td>
+      <td><a href="https://projecteuler.net">Link</a></td>
       <td>Free</td>
     </tr>
     <tr>
       <td>General Questions</td>
       <td>Interview Cake</td>
-      <td><a href="interviewcake.com">Link</a></td>
+      <td><a href="https://interviewcake.com">Link</a></td>
       <td>Paid</td>
     </tr>
     <tr>
       <td>iOS Questions</td>
       <td>Hacking with Swift</td>
-      <td><a href="hackingwithswift.com/interview-questions">Link</a></td>
+      <td><a href="https://hackingwithswift.com/interview-questions">Link</a></td>
       <td>Free</td>
     </tr>
     <tr>
       <td>iOS Questions</td>
       <td>iOS Interview Questions</td>
-      <td><a href="github.com/HenestrosaDev/ios-interview-questions">Link</a></td>
+      <td><a href="https://github.com/HenestrosaDev/ios-interview-questions">Link</a></td>
       <td>Free</td>
     </tr>
     <tr>
       <td>iOS Questions</td>
       <td>Turing</td>
-      <td><a href="turing.com/interview-questions/ios">Link</a></td>
+      <td><a href="https://turing.com/interview-questions/ios">Link</a></td>
       <td>Free</td>
     </tr>
     <tr>
       <td>System Design</td>
       <td>System Design Interview</td>
-      <td><a href="turing.com/interview-questions/ios">Link</a></td>
+      <td><a href="https://turing.com/interview-questions/ios">Link</a></td>
       <td>Paid</td>
     </tr>
     <tr>
       <td>System Design</td>
       <td>Leetcode Discussions</td>
-      <td><a href="leetcode.com/discuss/interview-question/system-design">Link</a></td>
+      <td><a href="https://leetcode.com/discuss/interview-question/system-design">Link</a></td>
       <td>Free</td>
     </tr>
     <tr>
       <td>System Design</td>
       <td>System Design Primer</td>
-      <td><a href="github.com/donnemartin/system-design-primer">Link</a></td>
+      <td><a href="https://github.com/donnemartin/system-design-primer">Link</a></td>
       <td>Free</td>
     </tr>
     <tr>
       <td>iOS Questions/Problems</td>
       <td>Leetcode + Swift</td>
-      <td><a href="github.com/rudrankriyam/LeetCode-in-Swift">Link</a></td>
+      <td><a href="https://github.com/rudrankriyam/LeetCode-in-Swift">Link</a></td>
       <td>Free</td>
     </tr>
   </tbody>
