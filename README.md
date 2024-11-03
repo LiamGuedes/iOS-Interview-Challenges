@@ -1,23 +1,24 @@
+
 <h1>iOS Interview Challenges</h1> 
-<div style="display: flex;"> 
+<div style="display: flex; gap: 15px; flex-wrap: wrap;"> 
  <img src="https://github.com/user-attachments/assets/f7c129a6-fdb0-48f5-a494-847fb7cddb19"/> 
  <img src="https://github.com/user-attachments/assets/220cbfaa-7615-4beb-bd3e-10cc94a73c07"/>
  <img src="https://github.com/user-attachments/assets/c396ff66-1ad3-47a1-94ef-9a1ab08a4552"/>
  <img src="https://github.com/user-attachments/assets/ca2d40c5-a24e-4f67-a76e-feb627e5fbc6"/>
 </div>
+<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/kd9cpJ0buyLDZTgIB0/giphy.gif" width="100%"/>
 </div>
+<br>
 
 <h1>Introduction</h1>
 <p>
   <a href="#projectchallenges">Project Challenges</a>&nbsp;&nbsp;|&nbsp;
-  <a href="#books"> Books Recomendations </a>&nbsp;&nbsp;|&nbsp;
-  <a href="#codechallenges"> Code Challenges </a>&nbsp;&nbsp;|&nbsp;
-  <a href="#interview"> Interview Questions </a>&nbsp;&nbsp;|&nbsp;
-  <a href="#warmup">  Warmup Kit </a>&nbsp;&nbsp;|&nbsp;
-  <a href="#allstars"> iOS All Stars </a>
+  <a href="#learningcenter">Learning Center</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#interviewkit">Interview Kit</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#allstars">iOS All Stars</a>
 </p>
 
 <p align="justify"> 
@@ -26,9 +27,9 @@ This repository is a collection of many code challenges available in github for 
 </p>
 <br/>
 
-<h1>iOS Project Challenges</h1>
+<h1 id="projectchallenges">iOS Project Challenges</h1>
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th>Country</th>
@@ -557,14 +558,144 @@ This repository is a collection of many code challenges available in github for 
 
 <br/>
 
-<h1>Coming Soon in The Next PR's</h1>
-<ul>
- <li> Bookshelf </li>
- <li> Code Challenges </li>
- <li> Interview Questions </li>
- <li> Warmup Kit </li>
- <li> iOS All Stars </li>
-</ul>
+<h1 id="learningcenter"> Learning Center </h1>
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Name</th>
+      <th>Source</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Books</td>
+      <td>Awesome iOS Books</td>
+      <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+      <td> Paid </td>
+    </tr>
+    <tr>
+      <td>Books / Course</td>
+      <td> obj.io </td>
+      <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+      <td> Paid </td>
+    </tr>
+    <tr>
+      <td>Books / Course</td>
+      <td> Nil Coalescing </td>
+      <td><a href="https://books.nilcoalescing.com">Link</a></td>
+      <td> Paid </td>
+    </tr>
+    <tr>
+      <td> Books </td>
+      <td> Best in Class </td>
+      <td><a href="https://www.bestinclassiosapp.com">Link<a></td>
+      <td> Paid </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> Essential Developer </td>
+      <td><a href="https://www.essentialdeveloper.com">Link</a></td>
+      <td> Paid </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> Let's Build That App </td>
+      <td><a href="https://www.letsbuildthatapp.com">Link</a></td>
+      <td> Paid / Free </td>
+    </tr>
+    <tr>
+      <td> Articles </td>
+      <td> Swift By Sundell </td>
+      <td><a href="https://www.swiftbysundell.com">Link</a></td>
+      <td> Free </td>
+    </tr>
+    <tr>
+      <td> All in One </td>
+      <td> Hacking With Swift </td>
+      <td><a href="https://www.hackingwithswift.com">Link</a></td>
+      <td> Paid / Free </td>
+    </tr>
+    <tr>
+      <td> All in One </td>
+      <td> Kodeco </td>
+      <td><a href="https://www.kodeco.com">Link</a></td>
+      <td> Paid / Free </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> Stanford CS193p </td>
+      <td><a href="https://cs193p.sites.stanford.edu/2023">Link</a></td>
+      <td> Free </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> iOS Development for Creative Entrepreneurs Specialization </td>
+      <td><a href="https://www.coursera.org/specializations/ios-development?utm_content=bts_2_english_final&utm_medium=email&utm_source=marketing&utm_campaign=FChGMFzDEeWvgF9FMLID1g~FChGMFzDEeWvgF9FMLID1g">Link</a></td>
+      <td> Paid / Free </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> Meta iOS Developer Professional Certificate </td>
+      <td><a href="https://www.coursera.org/specializations/ios-development?utm_content=bts_2_english_final&utm_medium=email&utm_source=marketing&utm_campaign=FChGMFzDEeWvgF9FMLID1g~FChGMFzDEeWvgF9FMLID1g">Link</a></td>
+      <td> Paid / Free </td>
+    </tr>
+    <tr>
+      <td> All in One </td>
+      <td> Appcoda </td>
+      <td><a href="https://appcoda.com">Link</a></td>
+      <td> Paid / Free </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> DesignCode.io </td>
+      <td><a href="https://appcoda.com">Link</a></td>
+      <td> Paid </td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
+<h1 id="interviewkit"> Interview Kit </h1>
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Name</th>
+      <th>Source</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Books</td>
+      <td>Bogdan Bystritskiy</td>
+      <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+      <td> Paid / Free</td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
+<h1 id="allstars"> iOS All-Stars </h1>
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Talk About</th>
+      <th>Name</th>
+      <th>Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Books</td>
+      <td>Bogdan Bystritskiy</td>
+      <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
 
 <h1>Contribute</h1>
 
