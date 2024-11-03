@@ -565,7 +565,7 @@ This repository is a collection of many code challenges available in github for 
   <thead>
     <tr>
       <th>Category</th>
-      <th>Author</th>
+      <th>Name</th>
       <th>Source</th>
       <th>Description</th>
     </tr>
@@ -573,9 +573,39 @@ This repository is a collection of many code challenges available in github for 
   <tbody>
     <tr>
       <td>Books</td>
-      <td>Bogdan Bystritskiy</td>
+      <td>Awesome iOS Books</td>
       <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
-      <td> An awesome book list with over than 100 books that covers all about iOS. It's recommended to all levels, who is beginner or who wants to get a deep dive into this awesome platform</td>
+      <td> A curated directory of over 100 iOS development books, covering topics from beginner to advanced levels, including Swift, Objective-C, UI design, architecture, and more. This resource is ideal for developers seeking comprehensive literature to enhance their iOS development skills. </td>
+    </tr>
+    <tr>
+      <td>Books / Course</td>
+      <td> obj.io </td>
+      <td><a href="https://github.com/bystritskiy/awesome-ios-books">Link</a></td>
+      <td> A website that offers in-depth articles, books, and videos on advanced iOS and macOS development topics. Ideal for intermediate to advanced developers looking to deepen their knowledge in Objective-C, Swift, and related frameworks.</td>
+    </tr>
+    <tr>
+      <td>Books / Course</td>
+      <td> Nil Coalescing </td>
+      <td><a href="https://books.nilcoalescing.com">Link</a></td>
+      <td> A website offering advanced Swift programming books, including "Swift Gems" and "Integrating SwiftUI into UIKit Apps," authored by Natalia Panferova. These resources provide experienced developers with concise tips and techniques to enhance their Swift expertise across various platforms </td>
+    </tr>
+    <tr>
+      <td> Books </td>
+      <td> Best in Class </td>
+      <td><a href="https://www.bestinclassiosapp.com">Link<a></td>
+      <td> A comprehensive resource offering a five-book series on iOS development, covering accessibility, design, user experience, and iOS APIs. Authored by Jordan Morgan, the series includes code samples and access to a private Discord community, making it suitable for developers aiming to create top-tier iOS applications. </td>
+    </tr>
+    <tr>
+      <td> Course </td>
+      <td> Essential Developer </td>
+      <td><a href="https://www.essentialdeveloper.com">Link</a></td>
+      <td> Essential Developer offers comprehensive training programs for iOS developers aiming to advance to senior levels. Their flagship course, iOS Lead Essentials, focuses on modern development practices, software architecture, and Test-Driven Development (TDD). The platform also provides free resources, including articles and a YouTube series, to support continuous learning. </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>  </td>
+      <td><a href="">Link</a></td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
